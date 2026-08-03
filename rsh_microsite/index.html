@@ -13,17 +13,14 @@
 </head>
 <body>
   <header class="site-header">
-    <a href="#top" class="brand" aria-label="Slalom home">
-      <img class="logo logo-white" src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Slalom_Consulting_Logo.svg" alt="Slalom" />
-      <img class="logo logo-blue" src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Slalom_Consulting_Logo.svg" alt="Slalom" />
-    </a>
+    <a href="#top" class="brand" aria-label="Slalom home"><span class="brand-wordmark">slalom</span></a>
     <button class="menu-toggle" aria-label="Open navigation" aria-expanded="false"><span></span><span></span></button>
     <nav class="main-nav" aria-label="Main navigation">
-      <a href="#section-a">Firm Overview &amp; Qualifications</a>
-      <a href="#methodology">Methodology</a>
+      <a href="#cover-letter">Our Note</a>
+      <a href="#section-a">Firm Overview</a>
+      <a href="#section-b">Approach</a>
       <a href="#team">Team</a>
       <a href="#case-studies">Case Studies</a>
-      <a href="#timeline">Timeline</a>
     </nav>
   </header>
 
@@ -34,69 +31,37 @@
         <p class="hero-date">31 JULY, 2026</p>
         <h1>Digital Go-to-Market Strategy</h1>
         <p class="hero-copy">Request for Proposal — RS&amp;H</p>
-        <a class="button button-primary" href="#section-a">Explore proposal</a>
+        <div class="hero-actions">
+          <a class="button button-secondary" href="#cover-letter">A note from our team</a>
+          <a class="button button-primary" href="#section-a">Explore the proposal</a>
+        </div>
       </div>
-      <div class="hero-footer">
-        <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Slalom_Consulting_Logo.svg" alt="Slalom" />
-        <span>Confidential &amp; Proprietary</span>
+      <div class="hero-footer"><span class="brand-wordmark">slalom</span><span>Confidential &amp; Proprietary</span></div>
+    </section>
+
+    <section id="cover-letter" class="section cover-letter-section">
+      <div class="cover-letter-card reveal">
+        <p class="eyebrow blue">A note from our team</p>
+        <h2>Built to move RS&amp;H from digital capability to commercial growth.</h2>
+        <p>The formal cover letter will be incorporated here as the final narrative is approved.</p>
       </div>
     </section>
 
     <section id="section-a" class="section proposal-section">
-      <div class="section-heading reveal">
-        <p class="eyebrow blue">Section A</p>
-        <h2>Firm Overview &amp; Qualifications</h2>
-        <p>Addresses §6.1, §6.2, and §6.3. Lead with evidence, not history — every claim should tie to a named client outcome.</p>
-      </div>
-      <div class="section-guidance reveal"><strong>Page guidance</strong><span>5–6 pages in the narrative proposal.</span></div>
-      <div id="section-a-content" class="section-a-content" aria-live="polite">
-        <p class="loading-copy">Loading Section A content…</p>
-      </div>
+      <div class="section-heading reveal"><p class="eyebrow blue">Section A</p><h2>Firm Overview &amp; Qualifications</h2></div>
+      <div id="section-a-content" class="section-a-content" aria-live="polite"><p class="loading-copy">Loading Section A content…</p></div>
     </section>
 
-    <section id="methodology" class="section section-dark">
-      <div class="section-heading light reveal">
-        <p class="eyebrow cyan">Section B</p>
-        <h2>Approach &amp; Methodology</h2>
-        <p>Content will be incorporated as the proposal narrative is finalized.</p>
-      </div>
+    <section id="section-b" class="section section-soft proposal-section">
+      <div class="section-heading reveal"><p class="eyebrow blue">Section B</p><h2>Approach &amp; Methodology</h2></div>
+      <div id="section-b-content" class="section-a-content" aria-live="polite"><p class="loading-copy">Loading Section B content…</p></div>
     </section>
 
-    <section id="team" class="section section-white">
-      <div class="section-heading reveal">
-        <p class="eyebrow blue">Section C</p>
-        <h2>Named Team</h2>
-        <p>Named personnel, role summaries, governance, and résumés will be added here.</p>
-      </div>
-    </section>
-
-    <section id="case-studies" class="section section-soft">
-      <div class="section-heading reveal">
-        <p class="eyebrow blue">Section D</p>
-        <h2>Case Studies &amp; References</h2>
-        <p>Representative client outcomes and references will be organized here.</p>
-      </div>
-    </section>
-
-    <section id="timeline" class="section section-white">
-      <div class="section-heading reveal">
-        <p class="eyebrow blue">Engagement Workplan</p>
-        <h2>Clear milestones across the engagement</h2>
-      </div>
-      <div class="timeline">
-        <div class="timeline-item reveal"><span>Week 1</span><h3>Kickoff</h3><p>Confirm scope, governance, stakeholders, and information needs.</p></div>
-        <div class="timeline-item reveal"><span>Week 3</span><h3>Current-state synthesis</h3><p>Align on capabilities, constraints, strengths, and opportunity themes.</p></div>
-        <div class="timeline-item reveal"><span>Week 6</span><h3>Market validation</h3><p>Share demand signals, priority segments, and competitive findings.</p></div>
-        <div class="timeline-item reveal"><span>Week 9</span><h3>Commercial design</h3><p>Review offering concepts, economics, and operating implications.</p></div>
-        <div class="timeline-item reveal"><span>Week 11</span><h3>Executive readout</h3><p>Deliver recommendations, roadmap, financial model, and next steps.</p></div>
-      </div>
-    </section>
+    <section id="team" class="section section-white"><div class="section-heading reveal"><p class="eyebrow blue">Section C</p><h2>Named Team</h2><p>Named personnel, role summaries, governance, and résumés will be added here.</p></div></section>
+    <section id="case-studies" class="section section-soft"><div class="section-heading reveal"><p class="eyebrow blue">Section D</p><h2>Case Studies &amp; References</h2><p>Representative client outcomes and references will be organized here.</p></div></section>
   </main>
 
-  <footer>
-    <div><img class="footer-logo" src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Slalom_Consulting_Logo.svg" alt="Slalom" /><p>Fiercely human business and technology consulting.</p></div>
-    <div class="footer-meta"><span>© 2026 Slalom, Inc.</span><span>Confidential &amp; Proprietary</span></div>
-  </footer>
+  <footer><div><span class="brand-wordmark">slalom</span><p>Fiercely human business and technology consulting.</p></div><div class="footer-meta"><span>© 2026 Slalom, Inc.</span><span>Confidential &amp; Proprietary</span></div></footer>
   <script src="app.js"></script>
 </body>
 </html>
