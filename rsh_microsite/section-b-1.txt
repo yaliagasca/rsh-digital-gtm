@@ -1,0 +1,99 @@
+B.1 Delivery Approach & Methodology
+
+Delivery Excellence
+
+Slalom will provide a team with the experience to drive accountability and progress, transparent stakeholder communications, the proactive removal of blockers and risks, and above all, team alignment on outcomes. Our plan delivers all required deliverables within a focused 11-week engagement, leveraging a dedicated team to move from assessment to actionable strategy.
+
+Our dedicated delivery practice brings structure to every project, ensuring transparency, accountability, and proactive risk management. The framework includes:
+
+Engagement Lead accountable for overall program health, client relationship, and cross-workstream coordination
+
+Weekly status reporting with executive-level dashboard (project health status, key milestones, risks/issues, decisions needed) leveraging a RAID log
+
+Change control process for scope, timeline, or resource adjustments
+
+Our commitment is full transparency throughout. Project Sponsors and leadership team will have continuous visibility into project progress, and the executive team will have the information needed to make timely decisions at every stage.
+
+Delivery Methodology
+
+Slalom's delivery methodology is designed to help organizations move beyond digital innovation and into sustainable commercialization. Our approach combines rigorous market analysis, growth strategy, financial modeling, and organizational alignment to create a practical go-to-market strategy that can be executed immediately and scaled over time. Rather than producing a theoretical strategy, we focus on creating clear leadership decisions and actionable commercialization pathways that generate measurable business outcomes.
+
+Our work integrates market assessment, offering strategy, sales strategy, operating model design, and financial planning into a unified engagement rather than addressing each component independently. This ensures that prioritized offerings are desirable to buyers, feasible to deliver, profitable to operate, and aligned with the organization's strategic objectives.
+
+Our delivery methodology is guided by several core principles:
+
+Co-Create: We work alongside client stakeholders through facilitated workshops, interviews, reviews, and working sessions to build alignment and ownership of recommendations.
+
+Focus on Outcomes, Not Deliverables: Success is measured by improved growth decisions, commercialization strategies, and investment clarity.
+
+Connect Strategy to Financial Performance: Recommendations are grounded in revenue potential, profitability and scalability. Growth opportunities are evaluated through both a market and financial lens.
+
+Enable Sustainable Execution: Knowledge transfer is embedded throughout the engagement through collaborative working sessions. Clients leave with the capability to execute and evolve the strategy independently.
+
+Maintain Executive Alignment: Frequent leadership reviews, decision checkpoints and transparent reporting ensure stakeholders remain aligned and informed throughout the engagement.
+
+Balance Rigor with Pragmatism: Recommendations are designed to be practical, implementable, and aligned with organizational realities.
+
+Ultimately, Slalom's methodology is designed to help clients transform digital capabilities into profitable, scalable businesses by aligning market opportunity, commercial strategy, operating models, and financial performance into a single integrated growth strategy.
+
+B.2 Current State Assessment (§3.1)
+
+B.2.1 Stakeholder Engagement Plan
+
+B.2.2 Capability Assessment Methodology
+
+The first thing required for this assessment is to anchor on how RS&H is defining their digital offerings and understand the scope and parameters of the digital assessment. Then the digital capability assessment is organized into three components: 1) inventorying digital offerings and supporting capabilities, 2) assessing current-state maturity and effectiveness, and 3) identifying capability gaps and opportunities for improvement. Together, these activities create a fact-based understanding of the organization's digital landscape, how effectively capabilities support customers and business objectives, and where the greatest opportunities exist to improve performance, scalability, and commercial outcomes. The assessment evaluates technology in the context of the broader operating environment, including processes, governance, measurement practices, organizational alignment, and customer-facing activities.
+
+1. Digital Offering & Capability Inventory
+
+Slalom begins by establishing a comprehensive inventory of digital offerings, supporting business capabilities, enabling technologies, data assets, governance structures, and performance measures. Through document reviews, stakeholder interviews, and collaborative working sessions, we develop a baseline understanding of the current landscape and how capabilities support customer engagement, sales execution, service delivery, and operational objectives.
+
+This work also identifies capability ownership, interdependencies, areas of overlap, and supporting systems across the organization. The result is a consolidated view of existing capabilities that serves as the foundation for subsequent assessment activities.
+
+2. Current-State Maturity Assessment
+
+Once capabilities have been inventoried, Slalom evaluates their maturity and effectiveness across people, process, technology, governance, and measurement dimensions. The assessment examines how consistently capabilities are executed, the degree to which they support business objectives, and how effectively enabling technologies and operating practices work together. The maturity assessment combines stakeholder feedback, process analysis, technology reviews, and performance measurement evaluation to identify strengths and areas requiring improvement. Particular focus is given to capabilities that influence customer experience, operational performance, service delivery, and commercial effectiveness.
+
+3. Gap & Opportunity Analysis
+
+Assessment findings are synthesized to identify strengths, pain points, capability gaps, operational inefficiencies, technology constraints, and organizational dependencies. Analysis focuses on both individual capability performance and the interaction points between teams, processes, technologies, and governance structures.
+
+This phase also evaluates the business impact of identified gaps, including potential effects on customer experience, employee productivity, revenue generation, scalability, and operational efficiency. The output provides a clear view of where opportunities exist to strengthen capabilities and improve business outcomes.
+
+Deliverables
+
+Digital Capability Inventory documenting current digital offerings, capabilities, supporting technologies, and ownership.
+
+Stakeholder Workshop Findings Summary synthesizing interview insights, key themes, and business requirements.
+
+Pain point inventory..
+
+Partner customer feedback..
+
+Current-State Capability Assessment evaluating effectiveness across people, process, technology, governance, and measurement.
+
+Capability Maturity Heatmap highlighting strengths, gaps, and maturity levels across assessed capabilities.
+
+Technology & Integration Assessment documenting platforms, dependencies, and architecture considerations.
+
+Gap & Opportunity Analysis identifying pain points, operational constraints, and capability enhancement opportunities.
+
+Representative Examples:
+
+Global Communications Technology Company (8x8)
+
+Supported a large cloud communications provider in defining an enterprise growth transformation strategy across customer lifecycle management, GTM operations, and technology enablement. Delivered capability assessments, executive alignment workshops, future-state recommendations, and a prioritized roadmap to guide scalable growth and acquisition integration efforts.
+
+Global Digital Infrastructure Provider (Equinix)
+
+Drove a GTM operations assessment and Lead-to-Cash transformation initiative for a Fortune 500 technology company. Assessed commercial capabilities, redesigned future-state processes, and developed an implementation-ready business blueprint and requirements backlog to support enterprise-wide revenue process modernization
+
+B.4 External Market Assessment (§3.2)
+
+B.4.1 Market Demand Validation Approach
+
+The market, buyer, and demand research work breaks down into four components: 1) secondary market and competitive intelligence, 2) primary qualitative research with experts and buyers, 3) primary quantitative validation across the three service pillars, and 4) synthesis into a decision-ready demand evidence base that feeds market sizing, portfolio prioritization, and financial modeling.
+
+Secondary Market and Competitive Intelligence
+
+Slalom will review public sources, government and procurement data, industry reports, and technology and infrastructure spending trends to establish the external baseline for Transportation, Aviation, and Federal Defense. The competitive analysis will distinguish direct competitors, substitutes, partners, and internal client alternatives, covering traditional AEC firms, digital-native consultancies, systems integrators, cloud and technology platforms, digital twin providers, asset-management and infrastructure software companies, and OT/cybersecurity specialists. This broader frame is what informs route-to-market and partnership strategy downstream, not just a competitor list.
