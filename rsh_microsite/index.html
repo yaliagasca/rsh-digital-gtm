@@ -12,6 +12,7 @@
   <link rel="stylesheet" href="interactions.css" />
   <link rel="stylesheet" href="team.css" />
   <link rel="stylesheet" href="section-nav.css" />
+  <link rel="stylesheet" href="search.css" />
 </head>
 <body>
   <header class="site-header">
@@ -50,11 +51,7 @@
       <nav class="section-jump-nav" aria-label="Proposal section navigation">
         <a class="section-jump-home" href="#top">↑ Back to main menu</a>
         <div class="section-jump-links">
-          <span class="section-jump-link current">Note</span>
-          <a class="section-jump-link" href="#section-a">A</a>
-          <a class="section-jump-link" href="#section-b">B</a>
-          <a class="section-jump-link" href="#team">C</a>
-          <a class="section-jump-link" href="#case-studies">D</a>
+          <span class="section-jump-link current">Note</span><a class="section-jump-link" href="#section-a">A</a><a class="section-jump-link" href="#section-b">B</a><a class="section-jump-link" href="#team">C</a><a class="section-jump-link" href="#case-studies">D</a>
         </div>
       </nav>
     </section>
@@ -65,11 +62,7 @@
       <nav class="section-jump-nav" aria-label="Proposal section navigation">
         <a class="section-jump-home" href="#top">↑ Back to main menu</a>
         <div class="section-jump-links">
-          <a class="section-jump-link" href="#cover-letter">Note</a>
-          <span class="section-jump-link current">A</span>
-          <a class="section-jump-link" href="#section-b">B</a>
-          <a class="section-jump-link" href="#team">C</a>
-          <a class="section-jump-link" href="#case-studies">D</a>
+          <a class="section-jump-link" href="#cover-letter">Note</a><span class="section-jump-link current">A</span><a class="section-jump-link" href="#section-b">B</a><a class="section-jump-link" href="#team">C</a><a class="section-jump-link" href="#case-studies">D</a>
         </div>
       </nav>
     </section>
@@ -80,29 +73,18 @@
       <nav class="section-jump-nav" aria-label="Proposal section navigation">
         <a class="section-jump-home" href="#top">↑ Back to main menu</a>
         <div class="section-jump-links">
-          <a class="section-jump-link" href="#cover-letter">Note</a>
-          <a class="section-jump-link" href="#section-a">A</a>
-          <span class="section-jump-link current">B</span>
-          <a class="section-jump-link" href="#team">C</a>
-          <a class="section-jump-link" href="#case-studies">D</a>
+          <a class="section-jump-link" href="#cover-letter">Note</a><a class="section-jump-link" href="#section-a">A</a><span class="section-jump-link current">B</span><a class="section-jump-link" href="#team">C</a><a class="section-jump-link" href="#case-studies">D</a>
         </div>
       </nav>
     </section>
 
     <section id="team" class="section team-section">
-      <div class="section-heading reveal">
-        <p class="eyebrow blue">Section C</p>
-        <h2>Named Team</h2>
-      </div>
+      <div class="section-heading reveal"><p class="eyebrow blue">Section C</p><h2>Named Team</h2></div>
       <div id="team-content"></div>
       <nav class="section-jump-nav" aria-label="Proposal section navigation">
         <a class="section-jump-home" href="#top">↑ Back to main menu</a>
         <div class="section-jump-links">
-          <a class="section-jump-link" href="#cover-letter">Note</a>
-          <a class="section-jump-link" href="#section-a">A</a>
-          <a class="section-jump-link" href="#section-b">B</a>
-          <span class="section-jump-link current">C</span>
-          <a class="section-jump-link" href="#case-studies">D</a>
+          <a class="section-jump-link" href="#cover-letter">Note</a><a class="section-jump-link" href="#section-a">A</a><a class="section-jump-link" href="#section-b">B</a><span class="section-jump-link current">C</span><a class="section-jump-link" href="#case-studies">D</a>
         </div>
       </nav>
     </section>
@@ -112,18 +94,24 @@
       <nav class="section-jump-nav" aria-label="Proposal section navigation">
         <a class="section-jump-home" href="#top">↑ Back to main menu</a>
         <div class="section-jump-links">
-          <a class="section-jump-link" href="#cover-letter">Note</a>
-          <a class="section-jump-link" href="#section-a">A</a>
-          <a class="section-jump-link" href="#section-b">B</a>
-          <a class="section-jump-link" href="#team">C</a>
-          <span class="section-jump-link current">D</span>
+          <a class="section-jump-link" href="#cover-letter">Note</a><a class="section-jump-link" href="#section-a">A</a><a class="section-jump-link" href="#section-b">B</a><a class="section-jump-link" href="#team">C</a><span class="section-jump-link current">D</span>
         </div>
       </nav>
     </section>
   </main>
 
+  <aside class="site-search" role="search" aria-label="Search this proposal">
+    <span class="site-search-icon" aria-hidden="true">⌕</span>
+    <input id="site-search-input" type="search" autocomplete="off" placeholder="Search the proposal…" aria-label="Search keywords in the proposal" />
+    <span class="site-search-count" aria-live="polite">0 results</span>
+    <button class="site-search-button" type="button" data-search-prev aria-label="Previous result">↑</button>
+    <button class="site-search-button" type="button" data-search-next aria-label="Next result">↓</button>
+    <button class="site-search-button" type="button" data-search-clear aria-label="Clear search">×</button>
+  </aside>
+
   <footer><div><span class="brand-wordmark">slalom</span><p>Fiercely human business and technology consulting.</p></div><div class="footer-meta"><span>© 2026 Slalom, Inc.</span><span>Confidential &amp; Proprietary</span></div></footer>
   <script src="app.js"></script>
   <script src="team.js"></script>
+  <script src="search.js"></script>
 </body>
 </html>
