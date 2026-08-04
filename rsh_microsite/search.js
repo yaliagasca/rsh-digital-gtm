@@ -31,12 +31,18 @@
   function highlight(query) {
     clearMarks();
     if (query.length < 2) return;
+
     const regex = new RegExp(`(${escapeRegExp(query)})`, 'gi');
+    const loweredQuery = query.toLocaleLowerCase();
     const walker = document.createTreeWalker(document.querySelector('main'), NodeFilter.SHOW_TEXT, {
-      acceptNode: node => eligible(node) && regex.test(node.nodeValue) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT
+      acceptNode: node => eligible(node) && node.nodeValue.toLocaleLowerCase().includes(loweredQuery)
+        ? NodeFilter.FILTER_ACCEPT
+        : NodeFilter.FILTER_REJECT
     });
+
     const nodes = [];
     while (walker.nextNode()) nodes.push(walker.currentNode);
+
     nodes.forEach(node => {
       regex.lastIndex = 0;
       const fragment = document.createDocumentFragment();
@@ -46,15 +52,20 @@
           mark.className = 'search-mark';
           mark.textContent = part;
           fragment.appendChild(mark);
-        } else if (part) fragment.appendChild(document.createTextNode(part));
+        } else if (part) {
+          fragment.appendChild(document.createTextNode(part));
+        }
       });
       node.parentNode.replaceChild(fragment, node);
     });
+
     marks = [...document.querySelectorAll('mark.search-mark')];
     current = marks.length ? 0 : -1;
     updateControls();
-    if (marks.length) goTo(0);
-    else {
+
+    if (marks.length) {
+      goTo(0);
+    } else {
       search.classList.remove('search-empty');
       void search.offsetWidth;
       search.classList.add('search-empty');
@@ -62,27 +73,41 @@
   }
 
   function reveal(mark) {
+    let changed = false;
+
     const panel = mark.closest('.section-tab-panel');
     if (panel && !panel.classList.contains('is-active')) {
       const container = panel.closest('.section-a-content');
       const tab = container?.querySelector(`.section-tab[data-tab="${panel.id}"]`);
-      tab?.click();
+      if (tab) {
+        tab.click();
+        changed = true;
+      }
     }
+
     const accordion = mark.closest('.content-accordion');
-    if (accordion && !accordion.classList.contains('is-open')) accordion.querySelector('.accordion-button')?.click();
+    if (accordion && !accordion.classList.contains('is-open')) {
+      accordion.querySelector('.accordion-button')?.click();
+      changed = true;
+    }
+
+    return changed;
   }
 
   function goTo(index) {
     if (!marks.length) return;
+
     marks.forEach(mark => mark.classList.remove('is-current'));
     current = (index + marks.length) % marks.length;
     const mark = marks[current];
-    reveal(mark);
-    requestAnimationFrame(() => {
+    const openedHiddenContent = reveal(mark);
+
+    updateControls();
+
+    window.setTimeout(() => {
       mark.classList.add('is-current');
-      mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
-      updateControls();
-    });
+      mark.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'nearest' });
+    }, openedHiddenContent ? 380 : 20);
   }
 
   function updateControls() {
@@ -96,6 +121,7 @@
     clearTimeout(timer);
     timer = setTimeout(() => highlight(input.value.trim()), 180);
   });
+
   input.addEventListener('keydown', event => {
     if (event.key === 'Enter') {
       event.preventDefault();
@@ -107,6 +133,7 @@
       input.blur();
     }
   });
+
   prev.addEventListener('click', () => goTo(current - 1));
   next.addEventListener('click', () => goTo(current + 1));
   clear.addEventListener('click', () => {
@@ -115,12 +142,5 @@
     input.focus();
   });
 
-  const refresh = new MutationObserver(() => {
-    if (input.value.trim().length >= 2) {
-      clearTimeout(timer);
-      timer = setTimeout(() => highlight(input.value.trim()), 250);
-    }
-  });
-  refresh.observe(document.querySelector('main'), { childList: true, subtree: true });
   updateControls();
 })();
