@@ -115,5 +115,29 @@ window.caseStudiesData = [
     relevanceToRSH: 'The case demonstrates front-end growth strategy capabilities required by the Digital GTM Strategy engagement: market assessment, demand validation, target-market prioritization, buyer analysis, opportunity sizing, and financial modeling.',
     publicUrl: '',
     isPublic: false
+  },
+  {
+    id: 'financial-services-software-gtm',
+    clientDisplayName: 'Financial Services Software Company',
+    engagementTitle: 'Value-Oriented Product, Pricing & GTM Strategy',
+    sectorTags: ['Software', 'Financial Services'],
+    capabilityTags: ['Go-to-Market', 'Commercialization', 'Pricing Models', 'Market Research', 'Customer Segmentation', 'Business Strategy', 'Financial Modeling'],
+    summary: 'Slalom helped an industry-leading financial services software company develop a value-based product, pricing, packaging, and go-to-market strategy as it expanded into new business models and offerings.',
+    challenge: 'The client wanted to expand beyond its flagship solution into additional business models by creating new offerings while determining each product’s commercial viability in the context of its market.',
+    approach: [
+      'Conducted a twelve-week project drawing on talent from multiple parts of the business.',
+      'Clarified business goals, commitments, competitive context, and economic model fundamentals.',
+      'Used market research, competitive analysis, and voice-of-customer interviews to understand target segments and willingness to pay.',
+      'Developed recommendations for pricing and taking validated solutions to market.',
+      'Created an interactive decision-making model to evaluate target markets, pricing, deal economics, and financial forecasts.'
+    ],
+    outcomes: [
+      'Delivered a reusable tool to support target-market evaluation and financial decision-making.',
+      'Improved clarity on what to sell, to whom, how, and where.',
+      'Supported pricing, deal-health evaluation, and financial forecasting across the roadmap.'
+    ],
+    relevanceToRSH: 'This story demonstrates Slalom’s ability to translate technical capabilities and new offerings into market-ready, commercially viable products and services. It combines market assessment, customer research, buyer validation, pricing strategy, value-proposition development, GTM planning, opportunity sizing, and financial modeling to support investment and portfolio decisions.',
+    publicUrl: '',
+    isPublic: false
   }
 ];
