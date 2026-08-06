@@ -10,6 +10,14 @@
     /\d+(?:-minute|-week|-month|-year)\b/i
   ];
 
+  const htmlEscape = value => String(value).replace(/[&<>'"]/g, character => ({
+    '&': '&amp;',
+    '<': '&lt;',
+    '>': '&gt;',
+    "'": '&#039;',
+    '"': '&quot;'
+  }[character]));
+
   function cleanLabel(sentence, value) {
     const escaped = value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
     return sentence
@@ -43,10 +51,14 @@
     const body = detail.querySelector('.proof-detail-body');
     if (!content || !body) return;
 
-    const previous = content.querySelector('.proof-metrics');
-    if (previous) previous.remove();
+    const source = (body.textContent || '').replace(/\s+/g, ' ').trim();
+    const existing = content.querySelector('.proof-metrics');
+    if (detail.dataset.metricsSource === source && existing) return;
 
-    const metrics = extractMetrics(body.textContent || '');
+    if (existing) existing.remove();
+    detail.dataset.metricsSource = source;
+
+    const metrics = extractMetrics(source);
     if (!metrics.length) return;
 
     const list = document.createElement('div');
@@ -54,8 +66,8 @@
     list.setAttribute('aria-label', 'Documented outcomes and scale');
     list.innerHTML = metrics.map(metric => `
       <div class="proof-metric">
-        <span class="proof-metric-value">${metric.value}</span>
-        <span class="proof-metric-label">${metric.label}</span>
+        <span class="proof-metric-value">${htmlEscape(metric.value)}</span>
+        <span class="proof-metric-label">${htmlEscape(metric.label)}</span>
       </div>
     `).join('');
     content.appendChild(list);
