@@ -26,6 +26,92 @@ function riskMatrix(){const rows=[['Stakeholder Participation May Vary','Assessm
 
 function buildSection(source,prefix){const groups=parseGroups(source,prefix);const tabs=groups.map((g,i)=>{const m=g.title.match(/^([AB]\.\d+)\s+(.+)$/);const number=m?m[1]:'';const title=m?m[2]:g.title;return `<button class="section-tab ${i===0?'is-active':''}" type="button" data-tab="${prefix}-tab-${i}" title="${esc(title)}">${iconFor(number,title)}<span class="tab-number">${esc(number)}</span><span class="tab-title">${esc(title)}</span></button>`;}).join('');const panels=groups.map((g,i)=>{const m=g.title.match(/^([AB]\.\d+)\s+(.+)$/);const number=m?m[1]:'';const title=m?m[2]:g.title;const{intro,sections}=splitSubsections(g.items,prefix);const reps=prefix==='A'&&!sections.length?representativeExamples(intro):null;const introItems=reps?reps.before:intro;const extra=prefix==='B'&&number==='B.10'?riskMatrix():'';return `<section class="section-tab-panel ${i===0?'is-active':''}" id="${prefix}-tab-${i}"><div class="proposal-block-heading"><span>${esc(number)}</span><h3>${esc(title)}</h3></div><div class="proposal-content">${introItems.length?`<div class="intro-copy interactive-highlight">${introItems.map(renderText).join('')}</div>`:''}${sections.length?`<div class="accordion-list">${sections.map(accordion).join('')}</div>`:''}${reps?reps.html:''}${extra}</div></section>`;}).join('');return `<div class="section-tabs" aria-label="${prefix} section navigation">${tabs}</div>${panels}`;}
 function bind(container){const tabs=container.querySelectorAll('.section-tab');const panels=container.querySelectorAll('.section-tab-panel');tabs.forEach(tab=>tab.addEventListener('click',()=>{tabs.forEach(t=>t.classList.remove('is-active'));panels.forEach(p=>p.classList.remove('is-active'));tab.classList.add('is-active');document.getElementById(tab.dataset.tab).classList.add('is-active');}));container.querySelectorAll('.accordion-button,.rep-example-button').forEach(btn=>btn.addEventListener('click',()=>{const card=btn.closest('.content-accordion,.rep-example');const open=card.classList.toggle('is-open');btn.setAttribute('aria-expanded',String(open));const icon=btn.querySelector('.accordion-icon,.rep-example-icon');if(icon)icon.textContent=open?'−':'+';}));}
-async function loadSection(target,files,prefix){try{const parts=await Promise.all(files.map(file=>fetch(file).then(r=>{if(!r.ok)throw new Error(`Unable to load ${file}`);return r.text();})));const container=document.querySelector(target);container.innerHTML=buildSection(parts.join('\n\n'),prefix);bind(container);}catch(error){document.querySelector(target).innerHTML=`<div class="pending-note">${esc(error.message)}</div>`;}}
+async function loadSection(target,files,prefix){try{const parts=await Promise.all(files.map(file=>fetch(file).then(r=>{if(!r.ok)throw new Error(`Unable to load ${file}`);return r.text();})));const container=document.querySelector(target);container.innerHTML=buildSection(parts.join('\n\n'),prefix);bind(container);if(prefix==='A')enhanceRepresentativeExamples(container);}catch(error){document.querySelector(target).innerHTML=`<div class="pending-note">${esc(error.message)}</div>`;}}
 loadSection('#section-a-content',['section-a.txt'],'A');
 loadSection('#section-b-content',['section-b-1.txt','section-b-2.txt','section-b-3.txt','section-b-4.txt'],'B');
+
+function enhanceRepresentativeExamples(container){
+  if(!document.getElementById('proof-point-selector-styles')){
+    const style=document.createElement('style');
+    style.id='proof-point-selector-styles';
+    style.textContent=`
+      .representative-examples.proof-selector{padding:34px;background:linear-gradient(145deg,#f8fbff 0%,#fff 70%)}
+      .proof-selector .rep-examples-heading{align-items:center;margin-bottom:26px}
+      .proof-selector-meta{display:flex;align-items:center;gap:12px;color:#667085;font-size:.82rem;font-weight:700;letter-spacing:.04em;text-transform:uppercase}
+      .proof-selector-count{color:var(--blue)}
+      .proof-selector-tabs{display:grid;grid-template-columns:repeat(var(--proof-count),minmax(0,1fr));gap:10px;margin-bottom:18px}
+      .proof-selector-tab{position:relative;display:flex;flex-direction:column;justify-content:space-between;min-height:128px;padding:18px;border:1px solid #dbe3f1;background:#fff;color:var(--navy);text-align:left;cursor:pointer;transition:transform .22s ease,box-shadow .22s ease,border-color .22s ease,background .22s ease}
+      .proof-selector-tab::after{content:"";position:absolute;left:0;right:100%;bottom:-1px;height:4px;background:var(--blue);transition:right .25s ease}
+      .proof-selector-tab:hover{transform:translateY(-3px);border-color:#9db9f6;box-shadow:0 14px 28px rgba(15,66,200,.09)}
+      .proof-selector-tab:hover::after,.proof-selector-tab.is-active::after{right:0}
+      .proof-selector-tab.is-active{border-color:var(--blue);background:#f1f6ff;box-shadow:0 14px 32px rgba(15,66,200,.1)}
+      .proof-selector-tab:focus-visible{outline:3px solid var(--lime);outline-offset:3px}
+      .proof-selector-number{color:var(--blue);font-size:.7rem;font-weight:800;letter-spacing:.12em}
+      .proof-selector-company{font-family:Manrope,Inter,sans-serif;font-size:.9rem;font-weight:800;line-height:1.3}
+      .proof-selector-arrow{align-self:flex-end;color:var(--blue);font-size:1.1rem;transition:transform .22s ease}
+      .proof-selector-tab.is-active .proof-selector-arrow{transform:translateX(3px)}
+      .proof-selector-detail{position:relative;min-height:210px;padding:34px 38px 32px;border:1px solid #cfd9eb;background:#fff;overflow:hidden}
+      .proof-selector-detail::before{content:"";position:absolute;left:0;top:0;bottom:0;width:6px;background:var(--blue)}
+      .proof-detail-kicker{margin-bottom:10px;color:var(--blue);font-size:.72rem;font-weight:800;letter-spacing:.14em;text-transform:uppercase}
+      .proof-detail-title{max-width:920px;margin:0 0 18px;color:var(--navy);font-family:Manrope,Inter,sans-serif;font-size:clamp(1.35rem,2vw,2rem);line-height:1.2}
+      .proof-detail-body{max-width:980px;color:#475467;line-height:1.75}
+      .proof-detail-body p{margin:0}
+      .proof-detail-content{animation:proofFade .28s ease both}
+      @keyframes proofFade{from{opacity:0;transform:translateY(7px)}to{opacity:1;transform:translateY(0)}}
+      @media(max-width:1150px){.proof-selector-tabs{grid-template-columns:repeat(3,minmax(0,1fr))}}
+      @media(max-width:760px){.representative-examples.proof-selector{padding:22px 16px}.proof-selector-tabs{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:8px}.proof-selector-tab{flex:0 0 78%;min-height:116px;scroll-snap-align:start}.proof-selector-detail{padding:26px 22px 24px}.proof-selector .rep-examples-heading{align-items:flex-start}.proof-selector-meta{margin-top:4px}}
+    `;
+    document.head.appendChild(style);
+  }
+
+  container.querySelectorAll('.representative-examples:not(.proof-selector)').forEach(section=>{
+    const cards=[...section.querySelectorAll('.rep-example')].map((card,index)=>{
+      const title=card.querySelector('.rep-example-title')?.textContent.trim()||`Example ${index+1}`;
+      const body=card.querySelector('.rep-example-body')?.innerHTML||'';
+      const company=title.includes('—')?title.split('—')[0].trim():title;
+      return{title,company,body,index};
+    });
+    if(!cards.length)return;
+
+    section.classList.add('proof-selector');
+    section.style.setProperty('--proof-count',Math.min(cards.length,5));
+    const heading=section.querySelector('.rep-examples-heading');
+    if(heading){
+      const helper=heading.querySelector(':scope > p');
+      if(helper)helper.outerHTML=`<div class="proof-selector-meta"><span class="proof-selector-count">01 / ${String(cards.length).padStart(2,'0')}</span><span>Explore selected experience</span></div>`;
+    }
+
+    const oldGrid=section.querySelector('.rep-examples-grid');
+    const tabs=document.createElement('div');
+    tabs.className='proof-selector-tabs';
+    tabs.setAttribute('role','tablist');
+    tabs.setAttribute('aria-label','Representative examples');
+    cards.forEach((card,index)=>{
+      const button=document.createElement('button');
+      button.type='button';
+      button.className=`proof-selector-tab${index===0?' is-active':''}`;
+      button.setAttribute('role','tab');
+      button.setAttribute('aria-selected',String(index===0));
+      button.innerHTML=`<span class="proof-selector-number">${String(index+1).padStart(2,'0')}</span><span class="proof-selector-company">${esc(card.company)}</span><span class="proof-selector-arrow" aria-hidden="true">→</span>`;
+      tabs.appendChild(button);
+    });
+
+    const detail=document.createElement('div');
+    detail.className='proof-selector-detail';
+    detail.setAttribute('role','tabpanel');
+    const renderDetail=index=>{
+      const card=cards[index];
+      detail.innerHTML=`<div class="proof-detail-content"><div class="proof-detail-kicker">Selected proof point ${String(index+1).padStart(2,'0')}</div><h5 class="proof-detail-title">${esc(card.title)}</h5><div class="proof-detail-body">${card.body||'<p>Additional detail pending.</p>'}</div></div>`;
+      section.querySelector('.proof-selector-count').textContent=`${String(index+1).padStart(2,'0')} / ${String(cards.length).padStart(2,'0')}`;
+      [...tabs.children].forEach((tab,tabIndex)=>{
+        const active=tabIndex===index;
+        tab.classList.toggle('is-active',active);
+        tab.setAttribute('aria-selected',String(active));
+      });
+    };
+    [...tabs.children].forEach((tab,index)=>tab.addEventListener('click',()=>renderDetail(index)));
+    renderDetail(0);
+    oldGrid.replaceWith(tabs);
+    tabs.insertAdjacentElement('afterend',detail);
+  });
+}
