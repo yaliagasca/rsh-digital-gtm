@@ -1,12 +1,8 @@
 Section A — Firm Overview & Qualifications
 
-5–6 pages. Addresses §6.1, §6.2, and §6.3. Lead with evidence, not history — every claim should tie to a named client outcome.
-
 A.1 Firm Profile
 
 Slalom, Inc. is a privately held business and technology consulting firm founded in 1993 and headquartered in Seattle, Washington. From strategy to implementation, our approach is fiercely human. We deeply understand our customers, and their customers, to deliver practical, end-to-end solutions that drive meaningful impact. Backed by close partnerships with over 700 leading technology providers, our approximately 10,000 employees across 52 offices in 12 countries, partner with organizations from strategy through execution to accelerate growth, modernize operations, and deliver innovative customer and digital experiences. Slalom serves Global 1000 companies, mid-market organizations, and more than 500 public sector agencies, foundations, and universities worldwide.
-
-[Paragraph 2 — Describe potential conflict of interest and proposed mitigation strategy]
 
 During our review for any potential conflicts of interest, we recognized that Slalom and RS&H may have some overlap in the customers and industries we serve, particularly within transportation, aviation, and adjacent markets. This could create a perceived conflict given that we would be helping RS&H strengthen and package its digital services offerings while we also participate in many of those same markets.
 
@@ -16,280 +12,95 @@ Ultimately, we see this as a net positive rather than a true conflict. We believ
 
 A.2 Sector and Commercialization Experience (§6.1)
 
-A.2.1 AEC, Infrastructure, Built-Environment, or Adjacent Industrial/Professional Services Sector Experience
+Slalom brings direct experience across AEC, infrastructure, transportation, aviation, and other asset-intensive environments, reinforced by work with more than 750 government, education, and nonprofit organizations over 20 years and a transportation portfolio spanning state DOTs, transit agencies, DMVs, toll authorities, airports, and ports. In these markets, growth is rarely driven by a single transaction; it depends on translating deep domain expertise into repeatable offerings, aligning those offerings to buyer needs, and building the operating and sales motions required to scale them. That is precisely where Slalom has helped clients move from project-based delivery to more structured digital businesses.
 
-[Response.] – Nate Higgins – Need short blurb, need named resource
+Our experience is especially relevant to RS&H because we understand the challenge of turning internal capabilities into market-facing services without losing the credibility of the core business. We have worked with engineering-led and asset-intensive organizations that needed to define what should be packaged as a standalone digital offering, what should be embedded within traditional services, and how to commercialize the result in a way that supports growth, profitability, and long-term differentiation. That work has included market and customer discovery, offering strategy, pricing and packaging, operating model design, product development, and go-to-market planning.
 
-A.2.2 Track Record Commercializing Digital Services, Advisory, Data/AI Products, or Managed Services in Complex B2B Environments
+We also understand the realities of selling into complex B2B environments with long sales cycles, relationship-led selling motions, multiple buying centers, and major-account structures. In these settings, a successful commercialization strategy must do more than define the offer. It must also equip the organization to sell, deliver, govern, and evolve the offer over time. Slalom connects strategy to execution by working side-by-side with client teams—from strategy through delivery—using an embedded, government-grade delivery model that aligns leadership, business development, product, technology, and operations around measurable outcomes.
 
-Slalom has helped organizations across professional services, technology, healthcare, financial services, and industrial sectors define, commercialize, and scale digital businesses. Our experience includes market assessment, offering strategy, pricing and packaging, managed services design, AI and data monetization, digital operating model design, and go-to-market execution for complex B2B organizations.
+For RS&H, this means we are well positioned to determine which digital capabilities should become standalone revenue streams, which should strengthen existing services and client relationships, and how each should be commercialized through RS&H’s major-account and pursuit model. Our experience shows that digital twins, AI-enabled tools, connected-asset solutions, platform offerings, and managed services can all be viable growth vehicles when they are tied to real client demand, clear value propositions, and an operating model that can support scale.
 
-Representative Experience:
+Representative Examples
 
-Global Technology Company – Financial Services Go-to-Market Strategy
+Sarah Group — Building a business-led IT strategy (Public Slalom.com Story)
+Slalom engaged 30 key stakeholders and facilitated C-level workshops to produce a business-driven technology strategy and actionable multi-year roadmap. The result aligned Sarah Group’s teams on shared priorities and governing principles for future technology decisions and investment, while establishing a clear path to improve business-technology maturity.
 
-Slalom partnered with Microsoft to develop industry-specific go-to-market strategies for Financial Services offerings, including market opportunity assessment, buyer segmentation, value proposition development, commercialization planning, and sales enablement. The engagement enabled alignment between product, marketing, sales, and alliance teams to accelerate adoption of digital and cloud-based solutions in a complex enterprise sales environment.
+Kawasaki Heavy Industries — Expanding horizons with intelligent track maintenance support (Public Slalom.com Story)
+Slalom helped this established engineering and industrial organization convert deep domain expertise into a scalable digital product and services business. The work combined connected physical assets, edge AI, cloud analytics, customer discovery, and product strategy to create new capabilities for rail inspection and maintenance. The capability is designed to make maintenance more targeted and efficient, minimize emergency repair work, and reduce freight-line disruptions.
 
-SaaS Platform Provider – Growth and Commercialization Strategy
+Southwest Airlines — Reimagining corporate travel experiences (Public Slalom.com Story)
+Slalom helped Southwest Airlines expand its B2B digital offerings through a new corporate travel experience. The work integrated product strategy, customer experience, data, technology, security, and organizational change. Southwest Business Assist now supports more than 5,000 corporate travel managers and travel management companies. Since launch, it has automatically processed more than 20,000 requests, enrolled 300 additional corporate customers, fully automated 58% of upgrade requests, and shifted 47% of support requests to the online channel.
 
-Slalom developed a growth strategy and commercialization roadmap for a SaaS platform provider, including TAM/SAM analysis, portfolio strategy, pricing considerations, operating model design, and go-to-market planning. The resulting strategy provided a prioritized path to market, target customer segments, and revenue growth opportunities to support expansion of the client's digital business.
+State Transportation Agency — Commercializing Drone Mission Services
+Slalom helped a state transportation agency convert an internal drone capability into a customer-facing service with structured lead management, opportunity tracking, geospatial mission planning, risk analysis, approvals, mobile execution, and customer charging. The solution created portfolio and revenue visibility while demonstrating how an embedded technical capability can become a repeatable, revenue-generating service.
 
-Global Retail Organization – Data & Analytics Platform Commercialization
+Scheidt & Bachmann — Solving EV infrastructure challenges with data and AI (Public Slalom.com Story)
+Slalom helped evaluate the commercial opportunity, test technical feasibility, build a proof of concept, and advance a proprietary AI-enabled product toward operational use. This example is especially relevant to RS&H’s interests in smart infrastructure, digital twins, and platform-enabled offerings because it illustrates the full path from opportunity validation to product commercialization.
 
-Slalom led a large-scale data and analytics transformation that established a modern data platform and self-service analytics capabilities supporting more than 20,000 users across 23 business groups worldwide. The transformation enabled thousands of new data visualizations, improved business decision-making, and created the foundation for future predictive analytics and AI use cases, supporting the client's broader digital growth objectives.
-
-How this benefits RS&H: These engagements demonstrate Slalom's ability to bridge strategy and execution—helping organizations identify market opportunities, package and commercialize digital capabilities, launch new offerings, and establish scalable operating models that support long-term growth. This experience directly aligns with RS&H's objective of transforming digital capabilities into repeatable advisory services, managed services, and productized offerings.
-
-A.2.3 Go-to-Market Strategy for Long Sales Cycles, Major Account Structures and Relationship-Led Selling
-
-Slalom has extensive experience developing growth and go-to-market strategies for organizations operating in complex B2B environments characterized by long sales cycles, multiple stakeholder decision processes, major-account structures, and relationship-based selling. Our clients span professional services, technology, financial services, healthcare, industrial, and public sector organizations, where growth depends on executive relationships, strategic account management, and the ability to position digital offerings both as standalone solutions and as extensions of existing services.
-
-Slalom's approach combines market opportunity assessment, buyer and stakeholder analysis, account segmentation, offering strategy, commercialization planning, sales enablement, and operating model design to create repeatable growth engines aligned to the realities of enterprise buying environments. This includes integrating digital offerings into account planning processes, pursuit and capture activities, alliance ecosystems, and relationship-led sales motions.
-
-Slalom has developed repeatable frameworks that help organizations move from strategy through commercialization by aligning market opportunity, offering design, account strategy, sales enablement, pursuit support, and delivery capabilities. These frameworks have been applied to technology, digital transformation, data, and AI offerings that require executive sponsorship, stakeholder alignment, and consultative selling across multiple buying centers.
-
-How this benefits RS&H: This experience is directly relevant to RS&H's environment, where digital solutions must be sold through existing client relationships, major-account structures, and business development teams supporting Transportation, Aviation, and Federal Defense clients. Slalom understands how to position digital offerings both as standalone revenue streams and as value-added capabilities embedded within broader professional services engagements.
-
-A.2.4 Growth Strategy for Digital Sold Standalone and Bundled with Core Professional Services
-
-Slalom has significant experience helping organizations determine how digital capabilities should be positioned, packaged, and monetized to maximize growth. This includes defining when digital offerings should be established as standalone revenue streams—such as advisory services, managed services, AI solutions, analytics services, and platform-based offerings—and when they should be embedded within broader professional services engagements to increase differentiation, client value, and wallet share.
-
-Our work focuses on portfolio strategy, offering design, packaging, pricing, revenue model development, and operating model alignment to create scalable digital businesses. We help clients evaluate bundled versus standalone commercialization approaches by market, buyer type, purchasing behavior, profitability, and delivery model requirements.
-
-Representative engagements have included:
-
-Designing digital advisory, managed services, and technology-enabled offerings with associated pricing, delivery, and operating models.
-
-Developing commercialization frameworks that align digital offerings to existing client relationships while creating new recurring and project-based revenue opportunities.
-
-Establishing business cases, investment strategies, and growth roadmaps for organizations seeking to evolve digital capabilities from project-based delivery into repeatable, market-facing offerings.
-
-How this benefits RS&H: This experience is directly relevant to RS&H's objective of determining which digital capabilities should be commercialized as standalone offerings, which should be embedded within Transportation, Aviation, and Federal Defense services, and how to optimize the mix to achieve long-term growth, profitability, and market differentiation.
+Together, these examples demonstrate Slalom’s ability to identify where digital capabilities create market value, convert them into viable offerings, and establish the commercial and operational foundation required to scale.
 
 A.3 Functional Expertise (§6.2)
 
-Address each of the five areas below. A short capability statement plus one proof point each is stronger than a general narrative.
+Slalom brings repeatable frameworks and integrated expertise that help organizations move from strategy through commercialization by aligning market opportunity assessment, buyer and stakeholder analysis, account segmentation, offering strategy, pricing and packaging, commercialization planning, sales enablement, pursuit support, delivery capabilities, operating-model design, and financial planning. We have applied these frameworks to technology, digital transformation, data, AI, managed-service, and platform offerings that require executive sponsorship, stakeholder alignment, and consultative selling across multiple buying centers. This integrated approach turns collections of digital capabilities into focused, commercially viable growth portfolios supported by demonstrated demand, clear buyers and value propositions, effective sales motions, repeatable delivery models, and economics aligned to RS&H’s growth and margin objectives.
 
-A.3.1 Product and Service Portfolio Strategy, Pricing, and Packaging
+Our portfolio strategy work helps organizations determine which digital capabilities deserve investment, how they should be grouped into market-facing offerings, and whether they should be sold independently, bundled with existing services, or delivered through recurring managed-service or platform models. We evaluate each opportunity against customer demand, differentiation, strategic fit, delivery feasibility, scalability, revenue potential, and margin profile, then translate priorities into defined offerings with target buyers, value propositions, service components, pricing logic, delivery requirements, and investment roadmaps. Slalom has applied this approach in public transportation by combining one-on-one interviews, small-group workshops, an agency-wide survey, analogous-initiative analysis, a capability-based organizational view, and an opportunity-prioritization framework to define transformation pillars, a future-state vision, and a roadmap for execution.
 
-Slalom helps organizations define, prioritize, and optimize portfolios of digital products, services, and managed offerings to align with market demand, customer needs, and financial objectives. Our experience includes portfolio rationalization, offering strategy, service-line development, pricing and packaging design, managed services definition, and business case development across digital advisory, AI and data solutions, platform-enabled offerings, and recurring services.
+Slalom also brings rigorous market assessment and segmentation capabilities. We combine secondary research with customer and stakeholder interviews, account and pipeline analysis, competitive intelligence, and demand validation to estimate the addressable opportunity and identify the segments most likely to buy. This includes evaluating TAM, SAM, and obtainable market potential; segmenting buyers by needs, behaviors, industry, maturity, and purchasing authority; and testing willingness to pay and preferred commercial models. The result is a fact-based view of where RS&H should compete, which buyers and accounts should be prioritized, and how each offering should be positioned.
 
-We work with clients to identify the highest-value market opportunities, define differentiated value propositions, establish pricing and margin targets, and design delivery models that support scalability and profitability. Our approach considers customer buying behavior, delivery complexity, competitive positioning, and revenue objectives to develop offerings that are both market-relevant and operationally sustainable.
+Because RS&H operates through major accounts, long sales cycles, multiple buying centers, and relationship-led business development, our approach extends beyond market sizing and offering design to establish a repeatable growth engine aligned to the realities of enterprise buying. Slalom helps organizations integrate digital offerings into strategic account planning, pursuit and capture activities, alliance ecosystems, and relationship-led sales motions. We develop buyer-specific messaging, value propositions, qualification criteria, account plays, pursuit strategies, sales tools, and enablement programs that help account teams recognize opportunities, engage the right stakeholders, and introduce digital capabilities credibly. This allows digital growth to build upon RS&H’s established relationships and business-development model rather than depend on a separate, disconnected sales channel.
 
-Representative Experience:
+We design operating models that specify governance, decision rights, ownership, funding, delivery responsibilities, performance measures, talent requirements, and long-term support boundaries; for one state transportation agency, this included defining ownership across the agency, the statewide IT organization, and third parties while standardizing permitting workflows across six operating districts. Our objective is to provide enterprise consistency while keeping the business units closest to RS&H’s clients actively involved in shaping, selling, and delivering the offerings.
 
-SaaS Platform Provider – Portfolio Strategy and Commercial Offering Design
+Financial rigor is embedded throughout this work. Slalom develops scenario-based models connecting portfolio decisions to revenue, investment, cost-to-serve, utilization, scalability, margin, and EBITDA/EBBIT outcomes. We test project-based, subscription, managed-service, retainer, transaction-based, and hybrid models to identify the conditions required to reach target profitability and give RS&H a transparent basis for deciding where to invest, what to launch first, and how quickly to scale. Slalom also tests the cost-to-serve implications of technology and delivery choices: for one state transportation agency, a multilingual serverless chatbot and voice solution used elastic, pay-for-use cloud services and was expected to reduce operating costs by up to 99%.
 
-Slalom helped a SaaS platform provider assess market opportunities, prioritize product investments, and define a commercialization roadmap. The engagement included market segmentation, portfolio prioritization, pricing considerations, operating model design, and growth planning. The resulting strategy established a structured portfolio framework and prioritized investment roadmap focused on target customer segments and growth opportunities.
+Representative Examples
 
-Healthcare Technology Company – Cloud Platform Commercialization Strategy
+SaaS Platform Provider — Growth and Commercialization Strategy
+Slalom developed a growth strategy and commercialization roadmap for a SaaS platform provider, including TAM and SAM analysis, market segmentation, portfolio strategy, pricing considerations, operating-model design, and go-to-market planning. The resulting growth strategy established a prioritized path to market, identified target customer segments, and surfaced revenue-growth opportunities to guide expansion of the client’s digital business.
 
-Slalom developed a commercialization framework for a healthcare technology organization transitioning to a cloud-based delivery model. The engagement included customer and market segmentation, migration archetypes, value proposition development, pricing strategy, bundled offering design, subscription considerations, and commercial model development. The resulting framework provided a structured approach for product packaging, service bundling, and recurring revenue growth.
+Healthcare Technology Company — Platform Strategy and Business Case
+Slalom helped a healthcare technology company prioritize modernization capabilities and evaluate legacy renovation, custom-build, enterprise-platform, point-solution, and hybrid alternatives. Slalom recommended a unified Salesforce Health Cloud platform and phased roadmap, supported by a five-year financial model projecting $34 million in benefits, $10.5 million in net present value, a 107% return on investment, and a four-year payback period.
 
-Enterprise Digital Business Portfolio Strategy
+Global Technology Company — Financial Services Go-to-Market Strategy
+Slalom partnered with a global technology company to develop industry-specific go-to-market strategies for financial-services offerings. The engagement included market opportunity assessment, buyer segmentation, value-proposition development, commercialization planning, and sales enablement. Slalom helped align product, marketing, sales, and alliance teams around a shared approach to complex enterprise buyers. This experience is particularly relevant to RS&H’s relationship-led sales environment and the need to equip account teams to position new digital capabilities effectively.
 
-Slalom has helped organizations evaluate digital product, advisory, managed service, and platform opportunities; prioritize investments; define growth roadmaps; and develop strategic business cases. These engagements have included portfolio and product strategy, operating model design, digital growth strategies, and investment planning to support the launch and scaling of new digital businesses.
+Major Transit Agency — Capability Assessment and Transformation Prioritization
+Slalom engaged stakeholders through individual interviews, small-group workshops, and an agency-wide survey; assessed analogous initiatives; created a functional and capability-based view of the organization; and developed an opportunity-prioritization framework, future-state vision, and roadmap. The engagement demonstrates the integrated assessment, prioritization, governance, and execution-planning disciplines required to evaluate RS&H’s digital portfolio and establish a practical path from strategy to implementation.
 
-How this benefits RS&H: This experience directly aligns with RS&H's objective of assessing and prioritizing Digital Advisory & Consulting, Managed Services, and Digital Products & Platforms; defining pricing and commercial models; and creating an investment-backed portfolio strategy that balances market opportunity, profitability, and growth potential.
-
-A.3.2 Sales and Account Strategy, Including Sales-Enablement Design
-
-Slalom helps organizations improve revenue growth by aligning sales strategy, account management, commercialization, and customer engagement models. Our experience includes account-based growth strategy, major-account planning, sales operating model design, buyer segmentation, pursuit and capture integration, alliance strategy, and sales-enablement programs that help organizations increase adoption of new digital offerings and expand wallet share within existing accounts.
-
-We work with clients to design sales motions that support complex B2B buying environments, including organizations with long sales cycles, multiple stakeholder groups, relationship-led selling models, and highly consultative sales processes. Our approach focuses on aligning offerings, messaging, account planning, sales tools, and stakeholder engagement strategies to improve seller effectiveness and accelerate growth.
-
-Core capabilities include:
-
-Account segmentation and strategic account planning.
-
-Buyer persona and buying-center analysis.
-
-Sales motion and commercialization strategy development.
-
-Sales-enablement frameworks, messaging, and pursuit support.
-
-Alliance and partner-channel strategy.
-
-Integration of digital offerings into account planning, capture management, and business development processes.
-
-Representative Experience:
-
-How this benefits RS&H:
-
-A.3.3 Market Assessment and Segmentation Methodology
-
-Slalom helps organizations identify, quantify, and prioritize growth opportunities through rigorous market assessment and segmentation methodologies. Our approach combines market analysis, customer research, competitive intelligence, demand validation, and financial modeling to help clients determine where to invest, which offerings to prioritize, and how to allocate resources for maximum growth and profitability.
-
-Our market assessment methodology evaluates:
-
-Total Addressable Market (TAM), Serviceable Addressable Market (SAM), and Serviceable Obtainable Market (SOM).
-
-Customer, buyer, and stakeholder segmentation.
-
-Market attractiveness and growth potential.
-
-Competitive and adjacent-market positioning.
-
-Customer demand signals, willingness to pay, and unmet needs.
-
-Revenue opportunity, margin potential, and investment requirements.
-
-Slalom complements secondary research with stakeholder interviews, client feedback, account and pipeline analysis, and market validation activities to ensure recommendations are grounded in both quantitative opportunity and practical market realities. This approach enables organizations to focus investments on the highest-value opportunities while reducing commercialization risk.
-
-Representative Experience:
-
-How this benefits RS&H:
-
-A.3.4 Digital Operating-Model Design
-
-Slalom helps organizations design and implement digital operating models that enable the successful commercialization, delivery, and scaling of digital products, advisory services, managed services, and technology-enabled solutions. Our experience spans operating model strategy, governance design, organizational structure, decision rights, funding models, talent strategy, service delivery models, and performance management frameworks.
-
-We work with clients to align business strategy, technology capabilities, and operating structures to support sustainable growth. This includes defining how digital teams are organized, how services are governed and funded, how offerings are brought to market, and how accountability is managed across business, technology, operations, innovation, and sales functions.
-
-Core capabilities include:
-
-Digital business and operating model design.
-
-Governance, decision-rights, and accountability frameworks.
-
-Organizational design and capability maturity assessments.
-
-Managed services operating models and service governance.
-
-Product, platform, and service-delivery model design.
-
-Commercialization and growth operating models aligned to revenue and profitability goals
-
-Representative Experience:
-
-How this benefits RS&H:
-
-A.3.5 Financial Modeling Tied to EBITDA / EBBIT and Margin Outcomes
-
-Slalom helps organizations evaluate growth opportunities, prioritize investments, and commercialize digital businesses through financially rigorous models that connect strategy decisions to revenue, profitability, margin performance, and long-term enterprise value. Our experience includes business case development, scenario modeling, portfolio investment analysis, operating model economics, pricing strategy, cost-to-serve analysis, and financial forecasting for digital products, managed services, advisory offerings, and technology-enabled businesses.
-
-We work with clients to quantify the financial implications of growth strategies, including revenue models, pricing approaches, delivery costs, margin profiles, investment requirements, and scalability assumptions. These analyses enable executive teams to make informed decisions regarding portfolio investments, commercialization strategies, operating model changes, and resource allocation.
-
-Core capabilities include:
-
-Revenue model design (subscription, managed services, project-based, retainer, transaction-based, and hybrid models).
-
-EBITDA/EBBIT and operating-margin scenario modeling.
-
-Investment and ROI analysis.
-
-Pricing, packaging, and profitability modeling.
-
-Cost-to-serve and delivery economics assessment.
-
-Portfolio investment prioritization and business case development.
-
-Representative Experience:
-
-How this benefits RS&H:
+Together, these examples demonstrate Slalom’s ability to integrate the five disciplines central to RS&H’s request: portfolio and offering strategy, market assessment and segmentation, sales and account enablement, digital operating-model design, and financial planning tied to profitable growth.
 
 A.4 Preferred Qualifications (§6.3)
 
-Transportation & Aviation
+Slalom brings experience across the markets and technologies most relevant to RS&H’s Digital Go-to-Market Strategy, including transportation, aviation, federal government, digital twins, data and AI, smart infrastructure, asset-lifecycle solutions, and cybersecurity. Our work in these areas combines industry knowledge with the product, technology, operating-model, and commercialization capabilities needed to turn emerging digital concepts into practical, scalable offerings.
 
-Slalom brings deep experience across transportation, transit, mobility, and aviation, helping organizations modernize operations, improve customer experiences, and commercialize digital capabilities. Our teams combine industry practitioners with expertise in digital strategy, data and AI, customer experience, intelligent operations, and technology modernization.
+Across transportation and aviation, Slalom works with state DOTs, transit agencies, DMVs, toll authorities, airports, and ports on mission-critical modernization. Our teams understand the sector’s operating context: safety and reliability obligations, aging assets, workforce constraints, complex federal-state-local governance, and the need to prove ROI before scaling AI, IoT, data-platform, and smart-infrastructure investments. This experience provides a strong foundation for evaluating how RS&H’s digital capabilities can address meaningful industry problems and be integrated into existing transportation and aviation relationships. Slalom further differentiates itself through transportation and aviation advisors with experience as transportation planners, state transit leaders, airline executives, and practitioners in mobility, customer experience, cybersecurity, and large-scale operational transformation. Slalom’s transportation perspective is grounded in the priorities facing DOT leaders today: capital-delivery and funding optimization, workforce capacity, state of good repair, safety and system performance, real-time operational visibility, and practical applications of AI and automation in inspection, maintenance, and project delivery.
 
-Representative Experience:
+Slalom brings extensive experience in federal and regulated environments where security, governance, acquisition, compliance, and operational resilience shape both the buying and delivery model. Our teams support federal agencies with cloud modernization, digital platforms, identity and access management, data and analytics, AI, cybersecurity, and product delivery, and understand that federal offerings must be designed around mission outcomes, acquisition requirements, security obligations, and long-term operability—not simply technical functionality. Across the broader public sector, Slalom has served more than 750 government, education, and nonprofit organizations over 20 years. Within the federal market, Slalom currently supports 11 projects across eight agencies and maintains an Interim Secret Facility Clearance, with a Top Secret Facility Clearance in progress.
 
-Colorado Department of Transportation (CDOT): Improved digital experiences, financial planning, and decision-making through connected, data-driven forecasting.
+Our capabilities in digital twins, connected assets, data and analytics, AI, and smart infrastructure are particularly relevant to RS&H’s opportunity. Slalom helps asset-intensive organizations connect physical environments with operational data, cloud platforms, IoT and edge technologies, machine learning, visualization, and decision-support workflows. Our strength is making these capabilities operational: for a major commuter rail operator, Slalom industrialized rail telemetry into a cloud and IoT platform processing more than 20 million messages per day from 150 trains to support root-cause analysis, targeted maintenance, and real-time incident response; for a major U.S. airport, Slalom used machine learning and event-driven architecture to recover $2.5 million per year in parking revenue while reducing congestion.
 
-California Department of Transportation (Caltrans): Modernized data pipelines and reporting capabilities supporting transportation funding and grant programs.
+Slalom also brings substantial cybersecurity experience across enterprise, cloud, operational technology, and industrial environments. Our work includes OT and ICS assessments, NIST- and NERC-aligned security programs, identity and access management, secure architecture, cyber-risk governance, compliance automation, asset visibility, and intrusion detection. For a global engineering and infrastructure firm, Slalom used the NIST Cybersecurity Framework to assess maturity, define a three-year target state, and develop an enterprise roadmap. Slalom also refreshed governance through NIST 800-53- and NIST 800-171-aligned standards and a change strategy spanning leadership, communications, training, and adoption. Slalom’s cybersecurity practice has supported more than 350 clients, delivered more than 1,000 engagements, and provided over one million hours of cybersecurity services.
 
-Nevada Department of Motor Vehicles: Launched a modern customer and operations platform that improved constituent experiences, reduced wait times, and streamlined processes.
+We view these capabilities as complementary to RS&H’s core strengths. RS&H should continue to lead infrastructure engineering, design, asset-domain expertise, permitting, operational safety, and the client relationships that establish its right to win. Slalom can bring the digital product strategy, data architecture, AI, enterprise security, platform delivery, operating-model, and commercialization capabilities needed to extend that expertise into new advisory, managed-service, and product offerings. This partnership model also reflects the procurement, contracting, risk-allocation, and safety requirements of AEC and infrastructure engagements: RS&H leads the engineering and domain-accountable work, while Slalom leads the digital capabilities required to turn internal expertise into repeatable, revenue-generating offerings. Together, the two organizations can create solutions that are technically credible, commercially viable, and grounded in the realities of infrastructure delivery.
 
-King County Metro Transit: Designed EV analytics capabilities and identified modernization opportunities for transit operations.
+Representative Examples
 
-Massachusetts Department of Transportation (MassDOT): Built a Salesforce-based grants platform that centralized funding management and simplified grant administration.
+United Airlines — Applying Generative AI to Airline Operations (Public Slalom.com Story)
+Slalom co-created an AI platform that reduced mean time to resolution for customer inquiries by half and enabled teams to customize 35% more flight updates for travelers. Slalom has also supported United across irregular operations, communications platforms, and MLOps. This example demonstrates our ability to apply data and AI within a complex aviation environment where operational reliability, customer communication, and responsible scaling all matter.
 
-New York State Transit / Keolis: Implemented IoT-enabled solutions that improved asset visibility and maintenance insights across transportation networks.
+DHS USCIS — Modernizing Mission-Critical Federal Systems (Public Slalom.com Story)
+As prime contractor, Slalom scaled a 130-plus-person DevSecOps program supporting E-Verify and SAVE, maintained 24/7/365 operations with incident response consistently meeting or exceeding the government’s 15-minute requirement, and led a 50-plus-person effort that launched E-Verify Next Generation on the original deadline. As a federal civilian agency, the engagement demonstrates experience that is directly transferable to the procurement, security, and operating complexities RS&H encounters in federal markets.
 
-United Airlines: Joined United for the start of its GenAI journey — co-created an AI platform that halved mean time to resolution for customer enquiries and enabled teams to customise 35% more flight updates for travelers. We also delivered work on irregular operations management, communications platform, and MLOps.
+International Aerospace Supplier — Connected Aircraft Digital Twin
+Slalom delivered the predictive-maintenance MVP in five weeks and a full prototype in three months. Published product outcomes indicate approximately 30% fewer potential delays and cancellations and approximately 20% fewer unscheduled maintenance events for monitored components.
 
-Alaska Airlines: Slalom supported Alaska Airlines through the integration of Alaska and Virgin America, helping bring together systems, processes and teams into a single operating model. On a single day, Alaska moved to one schedule, one airport experience, one call center experience and one digital experience for customers. The program required the coordination of complex operational and technology dependencies.
+Major Commuter Rail Operator — Rail Telemetry and Asset-Performance Platform
+Within 10 weeks, Slalom delivered a scalable cloud, IoT, and data architecture processing more than 20 million telemetry messages per day from 150 trains. The platform supports root-cause analysis, targeted maintenance, real-time incident response, and improved on-time performance—demonstrating the connected-asset and asset-lifecycle capabilities relevant to RS&H.
 
-Aerospace digital twin: Built connected aircraft capability for a major international aerospace supplier including proactive maintenance alerts, consolidated aircraft health view across part lifecycle data, and real-world performance data feeding design engineering.
+Global Engineering and Infrastructure Firm — Cybersecurity Strategy and Governance
+Slalom assessed cybersecurity maturity using the NIST Cybersecurity Framework and developed a three-year roadmap spanning risk management, identity, data protection, monitoring, resilience, and training. Slalom also refreshed enterprise security standards and supported adoption through clearer governance, stakeholder engagement, communications, and training.
 
-How this benefits RS&H:
+Major Energy Company — OT and Industrial Cybersecurity
+Slalom performed 20 refinery OT security assessments, completed cybersecurity maturity evaluations for terminal operations, provided interim OT security leadership, and supported pipeline cybersecurity initiatives. The work also included application-security assessments aligned with NIST requirements. This experience demonstrates the depth required to incorporate security, resilience, and risk management into digital offerings for operational and infrastructure environments.
 
-Slalom further differentiates itself through experienced transportation and aviation advisors, including former transportation planners, state transit leaders, and airline executives with deep expertise in transportation operations, mobility, customer experience, cybersecurity, and large-scale transformation initiatives.
-
-Federal Defense
-
-Slalom brings deep Federal and Defense experience, combining commercial innovation with mission-focused delivery. Slalom serves 500+ Federal and Public Sector organizations, supports 11 active projects across 8 federal agencies, and maintains an Interim Secret Facility Clearance, with a Top-Secret Facility Clearance in progress.
-
-Slalom's Federal practice is led by experienced national security and AI leaders, including defense, intelligence, and civilian government veterans. The team is supported by exclusive Federal AI partnerships with OpenAI, Gemini for Government, and Anthropic.
-
-Representative Experience:
-
-U.S. Air Force – Salesforce modernization and integration initiatives.
-
-DHS USCIS – Modernized cloud-based verification systems and migrated eight legacy applications.
-
-FDIC – Strengthened enterprise identity, credential, and access management (ICAM) by consolidating governance and identity controls.
-
-How this benefits RS&H:
-
-Slalom's experience across defense, national security, cloud modernization, AI, data and analytics, digital platforms, and enterprise transformation provides a strong foundation for helping RS&H evaluate and commercialize Digital Advisory, Managed Services, and Digital Product offerings within the Federal Defense market.
-
-Risk, procurement, and contracting in AEC professional services — [response]
-
-Reframe as partnership & how we can play together in this space. How this benefits RS&H [[Slalom does not position itself as an infrastructure engineering design firm, industrial control-system manufacturer, or specialist provider of safety-critical controls engineering, OT penetration testing, or operational safety certification. These areas should be led by RS&H, client engineering teams, and specialized partners. Slalom’s role is to lead the digital architecture, data, analytics, AI, enterprise security, product delivery, and adoption components of the solution.]]
-
-Digital twins, data/analytics, AI, smart infrastructure, and asset-lifecycle solutions
-
-Slalom helps asset-intensive organizations connect physical operations with data, analytics, and AI to improve performance, resilience, and decision-making. Our capabilities span digital-twin strategy, IoT and edge integration, modern data platforms, machine learning, visualization, cybersecurity, and organizational adoption. In 2025, Slalom completed more than 500 AI customer projects, representing over $8 billion in calculated customer value and an average reported return of three times investment.
-
-Our greatest depth is in building the data, integration, analytics, security, and operational workflows that make digital twins actionable and scalable.
-
-Representative Experience:
-
-Global Food Manufacturer: Designed a digital-twin and machine-learning solution intended to scale across up to eight manufacturing plants. The proposed architecture combined equipment telemetry, edge computing, cloud data services, MLOps, and near-real-time recommendations to improve production yield and reduce waste.
-
-North American Midstream Energy Company: Modernized gas-management systems supporting more than 14,000 miles of pipelines and approximately $1.5 billion in annual revenue. The cloud-native platform integrated with SCADA, ERP, financial, and analytics systems and reduced manual scheduling, allocation, and settlement steps by approximately 65%.
-
-European Energy Provider: Developed a digital-twin strategy to help a major utility identify priority use cases and establish a direction for connecting physical assets with operational data and predictive insights.
-
-Maritime Technology Company: Developed an IoT-edge and augmented-reality navigation capability combining live video from three vessel-mounted cameras with machine learning and Microsoft edge technology to provide operators with an integrated view of the surrounding environment.
-
-Industrial and Automotive Organizations: Developed simulation capabilities for vehicle systems and robotic equipment, including integration between automotive driving simulators and robotic operating systems, AR/VR application development, and virtual models of robotic manipulators used to evaluate production enhancements.
-
-Regulated Utility: Developed a secure-by-design cloud framework with 29 control objectives, eight secure application patterns, and 1,600 control specifications. The program improved real-time visibility into security posture and reduced security-operations total cost of ownership by approximately fivefold.
-
-How this benefits RS&H:
-
-OT/ICS/Cybersecurity
-
-Slalom helps asset-intensive organizations secure and modernize critical infrastructure environments through deep expertise in Operational Technology (OT), Industrial Control Systems (ICS), cybersecurity strategy, risk management, and regulatory compliance. Our cybersecurity practice has supported 350+ clients, delivered 1,000+ engagements, and provided over 1 million hours of cybersecurity services.
-
-Our OT/ICS experience includes cybersecurity assessments, maturity programs, NERC CIP compliance, NIST-based security frameworks, cyber resilience, OT security architecture, intrusion detection, asset visibility, identity and access management, and cyber risk governance.
-
-Representative Experience:
-
-Alternative Energy Provider: Conducted a cybersecurity assessment using ISO 27002 and NERC CIP frameworks and developed a multi-year cybersecurity roadmap and scalable security policy framework to support rapid business growth.
-
-Major Energy Company: Performed 20 refinery OT security assessments, completed C2M2 evaluations for terminal operations, provided interim OT security leadership, and supported pipeline cybersecurity initiatives. Slalom also conducted application security assessments aligned to NIST 800-53.
-
-Industrial Organization: Conducted a NIST Cybersecurity Framework assessment and developed a three-year cyber maturity roadmap encompassing 13 workstreams. Slalom led Business Impact Analysis (BIA), cyber risk management process design, IT policy modernization aligned to NIST 800-53, and Process Control Domain policies aligned to NIST 800-82.
-
-Major Utility Company: Implemented an automated cyber compliance and reporting platform that improved visibility across 5,000+ cyber assets, streamlined compliance reporting, and strengthened adherence to NERC security requirements.
-
-Power Distribution Utility: Designed and deployed OT intrusion detection and monitoring capabilities using Forescout SilentDefense and Ixia Packet Brokers, upgrading 67 sites over a two-year period to improve threat detection, asset visibility, and NERC CIP compliance.
-
-How this benefits RS&H:
-
-Combined with Slalom's broader capabilities in cyber strategy, security architecture, cyber resilience, identity security, cloud security, AI security, and data protection, this experience enables us to help organizations securely develop, operate, and scale digital products, managed services, Digital Twins, connected infrastructure, and OT-enabled solutions.
-
-Firms transitioning from cost-center digital to revenue-generating digital business units
-
-Slalom has extensive experience helping organizations evolve digital, technology, and innovation capabilities from internally focused service organizations into scalable, revenue-generating business units. Our work focuses on defining commercial offerings, prioritizing digital portfolios, establishing operating models, creating pricing and packaging strategies, developing go-to-market plans, and building the financial and governance frameworks required to support sustainable growth.
-
-We help clients answer the same questions facing RS&H today: Which digital capabilities should become market-facing offerings? How should they be packaged and priced? What operating model, sales approach, and investment strategy will support profitable growth?
-
-Representative Experience:
-
-How this benefits RS&H:
+These examples show that Slalom can help RS&H translate its technical and domain expertise into differentiated digital offerings that are commercially credible and secure by design, executable in complex operating environments, and scalable over time.
