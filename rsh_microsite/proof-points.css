@@ -1,0 +1,20 @@
+.representative-examples.proof-selector{padding:30px 34px!important}
+.proof-selector .rep-examples-heading{margin-bottom:20px!important}
+.proof-selector-tabs{display:flex!important;grid-template-columns:none!important;gap:8px!important;margin-bottom:14px!important;overflow-x:auto;scrollbar-width:thin;padding:2px 2px 7px}
+.proof-selector-tab{display:grid!important;grid-template-columns:auto minmax(0,1fr) auto;align-items:center;gap:10px;flex:1 1 0;min-width:150px;min-height:68px!important;padding:11px 13px!important}
+.proof-selector-number{font-size:.66rem!important;align-self:center}
+.proof-selector-company{font-size:.77rem!important;line-height:1.2!important;align-self:center}
+.proof-selector-arrow{align-self:center!important;font-size:.95rem!important}
+.proof-selector-tab:hover{transform:translateY(-2px)!important}
+.proof-selector-detail{min-height:0!important;padding:26px 30px 25px!important}
+.proof-detail-kicker{margin-bottom:7px!important;font-size:.66rem!important}
+.proof-detail-title{margin-bottom:13px!important;font-size:clamp(1.15rem,1.55vw,1.55rem)!important}
+.proof-detail-body{font-size:.94rem;line-height:1.65!important}
+.proof-metrics{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:0;margin-top:22px;padding-top:18px;border-top:1px solid #dbe3f1}
+.proof-metric{min-width:0;padding:4px 18px 4px 0}
+.proof-metric+.proof-metric{padding-left:18px;border-left:1px solid #dbe3f1}
+.proof-metric-value{display:block;margin-bottom:5px;color:var(--navy);font-family:Manrope,Inter,sans-serif;font-size:1.18rem;font-weight:800;line-height:1.1}
+.proof-metric-label{display:block;color:#475467;font-size:.78rem;line-height:1.38}
+@media(max-width:1150px){.proof-selector-tabs{display:flex!important}.proof-selector-tab{flex:0 0 190px}}
+@media(max-width:760px){.representative-examples.proof-selector{padding:22px 16px!important}.proof-selector-tab{flex:0 0 165px;min-height:64px!important;padding:10px 12px!important}.proof-selector-company{font-size:.74rem!important}.proof-selector-detail{padding:23px 20px!important}.proof-metrics{grid-template-columns:1fr 1fr}.proof-metric:nth-child(odd){padding-left:0;border-left:0}.proof-metric:nth-child(n+3){margin-top:14px;padding-top:14px;border-top:1px solid #e5eaf2}}
+@media(max-width:480px){.proof-metrics{grid-template-columns:1fr}.proof-metric,.proof-metric+.proof-metric{padding:12px 0;border-left:0;border-top:1px solid #e5eaf2}.proof-metric:first-child{padding-top:0;border-top:0}}
