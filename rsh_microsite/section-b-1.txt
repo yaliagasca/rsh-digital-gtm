@@ -1,52 +1,96 @@
 B.1 Delivery Approach & Methodology
 
-Delivery Excellence
+RS&H has established meaningful digital capabilities across its markets and service lines. The next step is to translate those capabilities into a focused portfolio of differentiated offerings that can be packaged, priced, sold, and delivered consistently. Slalom’s approach brings together current-state assessment, external market validation, offering prioritization, commercialization strategy, and financial modeling to provide RS&H leadership with a clear path from existing capabilities to scalable growth.
 
-Slalom will provide a team with the experience to drive accountability and progress, transparent stakeholder communications, the proactive removal of blockers and risks, and above all, team alignment on outcomes. Our plan delivers all required deliverables within a focused 11-week engagement, leveraging a dedicated team to move from assessment to actionable strategy.
-
-Our dedicated delivery practice brings structure to every project, ensuring transparency, accountability, and proactive risk management. The framework includes:
-
-Engagement Lead accountable for overall program health, client relationship, and cross-workstream coordination
-
-Weekly status reporting with executive-level dashboard (project health status, key milestones, risks/issues, decisions needed) leveraging a RAID log
-
-Change control process for scope, timeline, or resource adjustments
-
-Our commitment is full transparency throughout. Project Sponsors and leadership team will have continuous visibility into project progress, and the executive team will have the information needed to make timely decisions at every stage.
-
-Delivery Methodology
+B.1.1 Delivery Methodology
 
 Slalom's delivery methodology is designed to help organizations move beyond digital innovation and into sustainable commercialization. Our approach combines rigorous market analysis, growth strategy, financial modeling, and organizational alignment to create a practical go-to-market strategy that can be executed immediately and scaled over time. Rather than producing a theoretical strategy, we focus on creating clear leadership decisions and actionable commercialization pathways that generate measurable business outcomes.
 
-Our work integrates market assessment, offering strategy, sales strategy, operating model design, and financial planning into a unified engagement rather than addressing each component independently. This ensures that prioritized offerings are desirable to buyers, feasible to deliver, profitable to operate, and aligned with the organization's strategic objectives.
+B.1.2 Slalom's Big 3 for Delivery Success
 
-Our delivery methodology is guided by several core principles:
+At the core of our delivery approach is Slalom's Big 3 for Delivery Success (Figure 1). This model represents the three foundational elements we have consistently found to be the strongest predictors of successful delivery outcomes. Regardless of project size, organizational structure, or delivery methodology, engagements that maintain clarity in these areas are more likely to achieve their intended outcomes. Throughout the Digital Go-to-Market Strategy engagement, the Big 3 provides the governance framework that enables effective collaboration, transparent decision-making, and disciplined execution from kickoff through executive readout.
 
-Co-Create: We work alongside client stakeholders through facilitated workshops, interviews, reviews, and working sessions to build alignment and ownership of recommendations.
+BIG3_VISUAL
 
-Focus on Outcomes, Not Deliverables: Success is measured by improved growth decisions, commercialization strategies, and investment clarity.
+The Big 3 for Delivery Success includes:
 
-Connect Strategy to Financial Performance: Recommendations are grounded in revenue potential, profitability and scalability. Growth opportunities are evaluated through both a market and financial lens.
+Organizational & Role Clarity: is foundational to high-performing teams. We establish clear accountability across Slalom and RS&H by defining decision rights, stakeholder responsibilities, escalation paths, and executive ownership to ensure alignment throughout the engagement.
 
-Enable Sustainable Execution: Knowledge transfer is embedded throughout the engagement through collaborative working sessions. Clients leave with the capability to execute and evolve the strategy independently.
+Program Machine: establishes the governance framework that enables disciplined execution. This includes project governance, delivery processes, reporting, decision-making structures, issue management, meeting cadences, and executive checkpoints that provide transparency and support timely decisions across all workstreams.
 
-Maintain Executive Alignment: Frequent leadership reviews, decision checkpoints and transparent reporting ensure stakeholders remain aligned and informed throughout the engagement.
+Measured Progress: provides fact-based visibility into engagement performance through milestone tracking, deliverable reviews, executive checkpoints, and clearly defined success criteria. This enables both Slalom and RS&H leadership to monitor progress, identify risks early, validate findings, and make informed decisions throughout the 11-week engagement.
 
-Balance Rigor with Pragmatism: Recommendations are designed to be practical, implementable, and aligned with organizational realities.
+B.1.3 Slalom's Digital GTM Methodology
+
+While the Big 3 establishes how the engagement is governed and delivered, our Digital GTM methodology (Figure 2) defines how opportunities are evaluated and recommendations are developed. Together, these complementary frameworks ensure RS&H receives recommendations that are strategically aligned, commercially viable, financially sound, and implementation ready.
+
+GTM_PILLARS_VISUAL
+
+Success Pillars
+
+Slalom's Digital GTM methodology is built around three complementary perspectives that guide every phase of the engagement from current-state assessment through commercialization strategy and implementation planning. Together, these lenses ensure recommendations are grounded in market demand, commercially viable, and executable within RS&H's operating model.
+
+Market Evidence
+
+Validate buyer demand, market opportunity, competitive positioning, and RS&H's right to win. We combine stakeholder interviews, market research, competitive analysis, and buyer insights to prioritize the highest-value opportunities.
+
+Commercial Viability
+
+Define differentiated offerings, delivery models, pricing strategies, packaging, and routes to market. Every recommendation is evaluated through both customer value and financial sustainability.
+
+Execution Readiness
+
+Confirm organizational capabilities, governance, investment priorities, financial models, and implementation considerations required to successfully launch and scale each offering.
+
+Across these three pillars, Slalom brings a proprietary AI-enabled growth opportunity accelerator that combines structured consulting judgment with AI-driven analysis, to be applied throughout the current-state assessment, market research, and offering prioritization workstreams.
+
+Together, these ensure that prioritized offerings are desirable to buyers, commercially and financially viable, and feasible for RS&H to deliver, culminating in a prioritized digital GTM roadmap with clear next steps for execution.
+
+Delivery Excellence Framework
+
+DELIVERY_EXCELLENCE_VISUAL
+
+These delivery principles provide the operational foundation for the engagement. Combined with our Digital GTM methodology, they ensure recommendations are developed collaboratively, validated throughout the engagement, and delivered with the governance, transparency, and executive visibility necessary to support confident decision-making.
+
+Our delivery framework includes:
+
+A dedicated Engagement Lead accountable for overall delivery, client partnership, executive alignment, and cross-workstream coordination
+
+Weekly status reporting supported by an executive-level dashboard covering project health, milestones, risks, issues, dependencies, decisions, and upcoming activities
+
+A living RAID log to document and actively manage risks, assumptions, issues, and dependencies
+
+Structured decision and action tracking to maintain accountability and support timely resolution
+
+Proactive risk and issue management with clear owners, mitigation actions, and escalation paths
+
+Change control for proposed adjustments to scope, schedule, assumptions, or resource requirements
+
+Formal milestone reviews aligned to phase transitions and major deliverables
+
+Slalom leadership oversight to provide quality assurance, executive sponsorship, and escalation support
+
+Our commitment is full transparency throughout the engagement. RS&H’s project sponsors and leadership team will have continuous visibility into progress and the information needed to make timely, informed decisions at every stage.
 
 Ultimately, Slalom's methodology is designed to help clients transform digital capabilities into profitable, scalable businesses by aligning market opportunity, commercial strategy, operating models, and financial performance into a single integrated growth strategy.
 
-B.2 Current State Assessment (§3.1)
+B.2 Current Assessment (§3.1)
 
 B.2.1 Stakeholder Engagement Plan
 
+Slalom will engage RS&H's project team early to confirm the right level of access and interaction for each stakeholder group, format, sequencing, and volume, before finalizing the interview schedule. The plan below reflects our initial thoughts:
+
+STAKEHOLDER_TABLE
+
+RS&H's three NOLs (Business Unit P&L owners) and three Market leaders are engaged through periodic checkpoints: a discovery interview and a midpoint findings validation, with working-session participation reserved for prioritization decisions directly affecting their market. This complements engagement with the core executive sponsors (CTO, VP of DTS, and EVP of Business Development) across discovery, the midpoint review, and the final readout, where prioritization decision rights sit with the ELT.
+
 B.2.2 Capability Assessment Methodology
 
-The first thing required for this assessment is to anchor on how RS&H is defining their digital offerings and understand the scope and parameters of the digital assessment. Then the digital capability assessment is organized into three components: 1) inventorying digital offerings and supporting capabilities, 2) assessing current-state maturity and effectiveness, and 3) identifying capability gaps and opportunities for improvement. Together, these activities create a fact-based understanding of the organization's digital landscape, how effectively capabilities support customers and business objectives, and where the greatest opportunities exist to improve performance, scalability, and commercial outcomes. The assessment evaluates technology in the context of the broader operating environment, including processes, governance, measurement practices, organizational alignment, and customer-facing activities.
+The first thing required for this assessment is to anchor on how RS&H defines its digital offerings and understand the scope and parameters of the digital assessment. Then the digital capability assessment is organized into three components: 1) inventorying digital offerings and supporting capabilities, 2) assessing current-state maturity effectiveness, and 3) identifying capability gaps and opportunities for improvement. Together, these activities create a fact-based understanding of the organization's digital landscape, how effectively capabilities support customers and business objectives, and where the greatest opportunities exist to improve performance, scalability, and commercial outcomes. The assessment evaluates technology in the context of the broader operating environment, including processes, governance, measurement practices, organizational alignment, and customer-facing activities.
 
 1. Digital Offering & Capability Inventory
 
-Slalom begins by establishing a comprehensive inventory of digital offerings, supporting business capabilities, enabling technologies, data assets, governance structures, and performance measures. Through document reviews, stakeholder interviews, and collaborative working sessions, we develop a baseline understanding of the current landscape and how capabilities support customer engagement, sales execution, service delivery, and operational objectives.
+Slalom begins by establishing a comprehensive inventory of digital offerings, supporting business capabilities, enabling technologies, data assets, governance structures, and performance measures.
 
 This work also identifies capability ownership, interdependencies, areas of overlap, and supporting systems across the organization. The result is a consolidated view of existing capabilities that serves as the foundation for subsequent assessment activities.
 
@@ -60,40 +104,14 @@ Assessment findings are synthesized to identify strengths, pain points, capabili
 
 This phase also evaluates the business impact of identified gaps, including potential effects on customer experience, employee productivity, revenue generation, scalability, and operational efficiency. The output provides a clear view of where opportunities exist to strengthen capabilities and improve business outcomes.
 
-Deliverables
-
-Digital Capability Inventory documenting current digital offerings, capabilities, supporting technologies, and ownership.
-
-Stakeholder Workshop Findings Summary synthesizing interview insights, key themes, and business requirements.
-
-Pain point inventory..
-
-Partner customer feedback..
-
-Current-State Capability Assessment evaluating effectiveness across people, process, technology, governance, and measurement.
-
-Capability Maturity Heatmap highlighting strengths, gaps, and maturity levels across assessed capabilities.
-
-Technology & Integration Assessment documenting platforms, dependencies, and architecture considerations.
-
-Gap & Opportunity Analysis identifying pain points, operational constraints, and capability enhancement opportunities.
+Example Outputs: Session summaries and decision logs, pain point inventory, Partner customer feedback, effectiveness evaluation across design and engineering, build, sell, and support (covering digital capability inventory, demand signals, operating-model gaps, pricing barriers, and talent gaps), capability maturity heatmap highlighting strengths, gaps and maturity levels of assessed capability based on industry standard and RS&H future state ambition, customer journey and lifecycle visualization based on capability assessment findings.
 
 Representative Examples:
 
-Global Communications Technology Company (8x8)
-
+Global Communications Technology Company
 Supported a large cloud communications provider in defining an enterprise growth transformation strategy across customer lifecycle management, GTM operations, and technology enablement. Delivered capability assessments, executive alignment workshops, future-state recommendations, and a prioritized roadmap to guide scalable growth and acquisition integration efforts.
 
-Global Digital Infrastructure Provider (Equinix)
+Global Digital Infrastructure Provider
+Drove a GTM operations assessment and Lead-to-Cash transformation initiative for a Fortune 500 technology company. Assessed commercial capabilities, redesigned future-state processes, and developed an implementation-ready business blueprint and requirements backlog to support enterprise-wide revenue process modernization.
 
-Drove a GTM operations assessment and Lead-to-Cash transformation initiative for a Fortune 500 technology company. Assessed commercial capabilities, redesigned future-state processes, and developed an implementation-ready business blueprint and requirements backlog to support enterprise-wide revenue process modernization
-
-B.4 External Market Assessment (§3.2)
-
-B.4.1 Market Demand Validation Approach
-
-The market, buyer, and demand research work breaks down into four components: 1) secondary market and competitive intelligence, 2) primary qualitative research with experts and buyers, 3) primary quantitative validation across the three service pillars, and 4) synthesis into a decision-ready demand evidence base that feeds market sizing, portfolio prioritization, and financial modeling.
-
-Secondary Market and Competitive Intelligence
-
-Slalom will review public sources, government and procurement data, industry reports, and technology and infrastructure spending trends to establish the external baseline for Transportation, Aviation, and Federal Defense. The competitive analysis will distinguish direct competitors, substitutes, partners, and internal client alternatives, covering traditional AEC firms, digital-native consultancies, systems integrators, cloud and technology platforms, digital twin providers, asset-management and infrastructure software companies, and OT/cybersecurity specialists. This broader frame is what informs route-to-market and partnership strategy downstream, not just a competitor list.
+Expected Outcome: RS&H will gain a clear, data-driven understanding of its digital offerings, capability strengths, maturity levels, and the gaps limiting growth and commercialization. The assessment will identify the highest-value opportunities to improve performance, scalability, and go-to-market effectiveness, providing a prioritized foundation for future-state strategy, capability investments, and roadmap development.
