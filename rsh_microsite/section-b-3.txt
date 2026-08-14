@@ -1,44 +1,66 @@
-3. Start up costs and capital expenditures (optional - financing / debt sizing)
+B.4 Business and Financial Models (§3.5)
+
+Slalom's approach to creating an executive-ready financial model
+
+The financial model breaks down into four main components – 1) the demand side / revenue build, 2) the operation cost build, 3) the capital investment schedule, and 4) P&L / ROI analysis.
+
+1. Demand side and revenue model
+
+Based on the outputs from B.2 and B.3, Slalom will model out the demand volume projections over time based on target markets, customer segments, current / future state operational capabilities, go-to-market channels and motions, and prioritized offerings.
+
+The customer segments and go-to-market motions will inform the prioritized offering revenue models (e.g. SaaS / recurring revenue, transaction based, etc.), and items to deduct (e.g. promotions, partner revenue share, royalties, etc.) from gross service revenue to derive net service revenue. The revenue model may include price modeling, product / service bundle scenarios, feature attach rates, etc.
+
+Example Outputs: Demand funnel for each prioritized offering, revenue model for each prioritized offering, demand / growth projection, summarized list of demand side assumptions (e.g. growth rates, attach rates, etc.)
+
+2. Product and service cost structure, and SG&A
+
+The prioritized offerings will inform the product and service cost structure.
+
+For Digital Products and Platforms, Slalom will estimate cost of service (e.g. cloud costs, customer success / support, etc.) based on demand side volume projections and technology infrastructure solution estimates. For SG&A Slalom will model the customer acquisition cost and other sales / marketing costs (assuming this product lines CAC will differ than traditional RS&H business). Slalom will use RS&H's current overhead as reference for G&A. If this product line requires a standalone overhead, Slalom will model out a separate SG&A informed by market comparables and product line overhead requirements.
+
+For Digital Advisory & Consulting, and Digital Managed Services, Slalom will estimate cost of service based on demand side volume projections, technology infrastructure solution estimates, and labor estimates (e.g. fully loaded personnel costs, FF&E per head, etc.). For SG&A Slalom will model the customer acquisition cost and other sales / marketing costs (assuming this service lines CAC will differ than traditional RS&H business). Slalom will use RS&H's current overhead as reference for G&A. If a specific service line (e.g. Digital Managed Services) requires a standalone overhead, Slalom will model out a separate SG&A informed by market comparables and service line overhead requirements.
+
+Example Outputs: Unit cost structure and model for each prioritized offering which covers cost of service and SG&A. If applicable, a separate SG&A model may be developed for offerings that require a standalone cost structure outside of RS&H.
+
+3. Startup costs and capital expenditures (optional financing / debt sizing)
 
 Based on demand volume projections, product and service asset requirements, and timing of expenses, Slalom will size the capital requirements to support the prioritized offerings. Slalom will also construct a depreciation schedule based on RS&H's internal accounting policies.
 
 Optional - If RS&H decides to seek external financing options, Slalom will size the peak funding requirement based on accumulated free cash flow and adjust the financial model to capture the necessary metrics (e.g. DSCR, liquidity ratios) for reporting.
 
-Key deliverables: CAPEX and depreciation schedule for assets and capital services required to support the prioritized offerings. If applicable, a cash flow sweep module may get added to the model to size debt.
+Example Outputs: CAPEX and depreciation schedule for assets and capital services required to support the prioritized offerings. If applicable, a cash flow sweep module may get added to the model to size debt.
 
 4. Profitability, ROI and scenarios analysis
 
-Based on the demand side and revenue model, cost structure, and CAPEX schedule, Slalom will develop P&Ls for the prioritized products and service lines. From the P&Ls Slalom will summarize the relevant profitability metrics (e.g. gross margin, EBITDA margin, etc.), operational metrics (e.g. ARR / MRR, CAC, revenue retention, churn rate, etc.), and ROI metrics (e.g. NPV, IRR, ROA, ROIC, etc.)
+Based on the demand side and revenue model, cost structure, and CAPEX schedule, Slalom will develop P&Ls for the prioritized products and service lines. From the P&Ls Slalom will summarize the relevant profitability metrics (e.g. GSR, NSR, gross margin, EBBIT margin, etc.), operational metrics (e.g. ARR / MRR, CAC, revenue retention, churn rate, etc.), ROI metrics (e.g. NPV, IRR, ROA, ROIC, etc.), and stated operating horizons (near-term FY27, mid-term FY28, long-term FY30).
 
 Slalom will model out key variables for scenario analysis. Variables may be driven by market dynamics, pricing changes, adoption rates, etc. Slalom will work with project sponsors / stakeholders to identify the variables relevant for RS&H.
 
-Key deliverables: Three statement financial model built from sub P&Ls, consolidated balance sheet, cashflow statement, and CAPEX schedule. Model will also contain a summary page for profitability, operations, and ROI analysis. Model will also include an appendix of assumptions and data sources.
+Example Outputs: Three statement financial model built from sub P&Ls, consolidated balance sheet, cashflow statement, and CAPEX schedule. Model will also contain a summary page for profitability, operations, and ROI analysis. Model will also include an appendix of assumptions and data sources.
 
-Expected Outcome
+Expected Outcome: We will provide leadership with an evidence-based foundation for decision-making. The completed financial model will support the strategic rationale, expected financial and operational impacts, de-risk investments, implementation requirements, and the conditions required to achieve the projected growth above the $1M NSR today.
 
-We will provide leadership with a transparent, evidence-based foundation for decision-making. The completed financial model will support the strategic rationale, expected financial and operational impacts, implementation requirements, key risks, and the conditions required to achieve the projected value.
+B.5 Offering Strategy (§3.3)
 
-B.6 Offering Strategy (§3.3)
+B.5.1 Digital Offering Prioritization Framework
 
-B.6.1 Digital Offering Prioritization Framework
-
-To ensure RS&H's offering strategy is focused on the evidence-based best set of digital investments, Slalom will create a digital offering prioritization framework, resulting in a validated 3x3 portfolio, three offerings within each of RS&H's three service pillars, for nine offerings total, with a clear rationale behind each offering selected as well as those set aside.
+To ensure RS&H's offering strategy is focused on the evidence-based best set of digital investments, Slalom will create a digital offering prioritization framework, resulting in a validated portfolio, offerings within each of RS&H's three service pillars, with a clear rationale behind each offering selected as well as those set aside.
 
 1. Future-state vision workshop
 
-Slalom will run a working session with RS&H leadership to establish what DTS needs to look like by 2030 to deliver on Amplify 2030's growth ambition, not just what today's evidence supports. This sets the strategic lens the rest of the framework is measured against. Without it, prioritization defaults to whichever offering has the strongest evidence right now, which can quietly favor familiar capabilities over the ones RS&H actually needs to build toward its longer-term ambition.
+Slalom will run a working session with RS&H leadership to establish what DTS needs to look like by 2030 to deliver on Amplify 2030's growth ambition, not just what today's evidence supports. This sets the strategic lens the rest of the framework is measured against. Without it, prioritization defaults to whichever offering has the strongest evidence right now, which can favor familiar capabilities over the ones RS&H needs to build toward its longer-term ambition.
 
-Key deliverables: Documented future-state vision and strategic priorities.
+Example Outputs: Documented future-state vision and strategic priorities.
 
 2. Capability maturity and strategic fit assessment
 
 Through a focused round of additional stakeholder interviews, Slalom will assess RS&H's digital capabilities against two references. The first is an industry maturity standard, showing how RS&H's current capabilities compare to what leading firms and digital-native competitors have already built. The second is the future-state vision itself, showing how each capability maps against where RS&H is trying to go, so a capability that looks mature by industry standards but doesn't advance the 2030 ambition gets identified as clearly as one that closes a real gap.
 
-Key deliverables: Capability maturity benchmark and strategic fit map, by capability area.
+Example Outputs: Capability maturity benchmark and strategic fit map, by capability area.
 
 3. Bringing the evidence together
 
-Scoring draws on the full evidence base at this point: the current-state assessment, the market and buyer research, directional financial modeling, and the future-state vision and strategic fit assessment above. Each plays a distinct role. Current state establishes what RS&H can deliver today. Market research establishes what buyers actually want and will pay for. Financial modeling establishes what the economics can support. Future-state vision and strategic fit establish where RS&H needs to be, not just where the evidence says it already stands.
+Scoring draws on the full evidence base at this point: the current-state assessment, the market and buyer research, directional financial modeling, and the future-state vision and strategic fit assessment above. Each plays a distinct role. Current state establishes what RS&H can deliver today. Market research establishes what buyers want and will pay for. Financial modeling establishes what the economics can support. Future-state vision and strategic fit establish where RS&H needs to be, not just where the evidence says it already stands.
 
 4. Digital offering scorecard
 
@@ -46,78 +68,36 @@ To compare candidate offerings on equal footing, Slalom will build a business mo
 
 The comprehensive canvases will then be scored across four dimensions: 1) market attractiveness, 2) RS&H's right to win, 3) commercial potential, and 4) feasibility. Score will be tied to the specific evidence behind it and given a confidence level. Additional weighting may then be applied to calibrate each offering's score against its strategic fit.
 
-Key deliverables: Offering canvases, client-problem-to-offering map, weighted scorecard.
+Example Outputs: Offering canvases, client-problem-to-offering map, weighted scorecard. Finalized digital offering portfolio with rationale.
 
-5. Finalizing the digital offering portfolio
-
-To ensure alignment, Slalom will conduct a digital offering recommendations workshop with RS&H's Executive and National Operations Leadership (ENOL) in Week 8, with the goal of confirming or adjusting the recommendation for each scored offering and locking the final 3x3 portfolio. Prior to the workshop, Slalom will send ahead the full shortlist scorecard, not only the final nine, along with a short survey to surface initial feedback and disagreement, which will be reviewed and addressed directly in the workshop.
-
-The workshop will confirm or adjust the recommendation for each offering, pursue now, incubate, or deprioritize, and will lock the final digital offering portfolio: a 3x3 of three offerings within each service pillar.
-
-Key deliverables: Finalized 3x3 digital offering portfolio with rationale, client-problem-to-offering map, recommendation for every offering scored.
-
-B.6.2 Commercialization and GTM Strategy
+B.5.2 Commercialization and GTM Strategy
 
 With a clear view of where the market is going, where RS&H has the right to win, and with which services, the question becomes how. Slalom will design the commercialization and go-to-market playbook RS&H's marketing, sales, and delivery teams will execute against: which accounts to target, which routes and partners to use, and how to talk about each offering, externally and internally. Slalom will establish the strategy. RS&H's own teams will own execution, campaigns, positioning production, and pipeline management beyond the strategy.
 
-B.6.3 Account and Sales Strategy
+B.5.3 Account and Sales Strategy
 
-To ensure RS&H's account and sales teams know how to prioritize their time and effort, who to reach, and when the moment is right, Slalom will identify which of RS&H's priority accounts, [X] accounts total, are the strongest fit for each of the nine (3x3) offerings. Slalom will request existing account and relationship data, current services sold, relationship tenure, known digital needs or triggers, and will match that data against the buying-center patterns from the market research and each offering's target-buyer profile. Where that data isn't readily available, Slalom will run a single working session with RS&H account leadership to identify and rank account fit directly.
+To ensure RS&H's account and sales teams know how to prioritize their time and effort, who to reach, and when the moment is right, Slalom will identify which of RS&H's priority accounts, top-ten accounts total, are the strongest fit for each of the offerings. Slalom will request existing account and relationship data, current tiering system, current services sold, relationship tenure, known digital needs or triggers, and will match that data against the buying-center patterns from the market research and each offering's target-buyer profile. Where that data isn't readily available, Slalom will run a single working session with RS&H account leadership to identify and rank account fit directly.
 
-For the [X] accounts identified, Slalom will document pipeline-generation guidance by offering type, existing-account opportunity mining, targeted outreach, partner-generated demand, in a short written recommendation RS&H's sales teams can apply directly.
+Up to 10 accounts, recommended ~3 per market, Slalom will document pipeline-generation guidance by offering type, existing-account opportunity mining, targeted outreach, partner-generated demand, in a short written recommendation RS&H's sales teams can apply directly.
 
-Key deliverables: Account-fit mapping by offering, account-based growth approach, proposal and capture integration guidance, written pipeline-generation guidance by offering type.
+Example Outputs: Account-fit mapping by offering, account-based growth approach, pricing structure based on level of project and type (Fixed rate, Time and materials, Fixed capacity), and pipeline guidance.
 
-B.6.4 Commercial and Delivery Strategy
+B.5.4 Commercial and Delivery Strategy
 
-For each of the nine (3x3) offerings, Slalom will document a written commercial recommendation: whether it sells standalone, bundles into design, program management, or construction management work, or is delivered as a managed service. Slalom will also document a preliminary pricing recommendation for each offering, structure, relative price position, and margin aspiration, built from the offering's directional economics and the industry benchmark economics by pillar, sufficient to guide commercial conversations and proposal development into the playbook. Note it will not include a full financial build for the 9 offerings.
+For each of the offerings, Slalom will document a written commercial recommendation: whether it sells standalone, bundles into design, program management, or construction management work, or is delivered as a managed service. Slalom will document a preliminary pricing recommendation for each offering, structure, relative price position, and margin aspiration, built from the offering's directional economics and the industry benchmark economics by pillar, sufficient to guide commercial conversations and proposal development into the playbook.
 
 The playbook will also include route-to-market recommendations for each offering, direct, partner, white-label, or embedded, and where a partner is the better path, will identify the type of partner needed and the alliance model, co-sell, co-deliver, resell, that fits.
 
-Key deliverables: Bundled-versus-standalone recommendation by offering, preliminary pricing framework by offering, route-to-market recommendation by offering, partner and alliance strategy.
+Example Outputs: Bundled-versus-standalone recommendation by offering, preliminary pricing framework by offering, route-to-market recommendation by offering, partner and alliance strategy.
 
-B.6.5 Marketing, Positioning, and Enablement
+B.5.5 Marketing, Positioning, and Enablement
 
 The playbook's final piece is strengthening the positioning RS&H carries into the market, from external marketing materials through to how sellers and delivery teams talk about each offering internally.
 
-For each of the nine priority offerings, Slalom will add a high-level positioning brief: the differentiation argument against AEC competitors and digital-native firms, supporting proof points, and a core message, written to guide RS&H's own marketing function in producing external materials, pursuit language, and proposal content. Slalom does not produce designed or published marketing assets.
+For each of the priority offerings, Slalom will add a high-level positioning brief: the differentiation argument against AEC competitors and digital-native firms, supporting proof points, and a core message, written to guide RS&H's own marketing function in producing external materials, pursuit language, and proposal content. Slalom does not produce designed or published marketing assets.
 
 Slalom will also add internal messaging guidance for executives, sellers, and delivery teams, what the offering is, who buys it, and why RS&H can credibly win it, along with enablement priorities, discovery questions, objection handling, and standalone-versus-bundled guidance, giving RS&H's own sales-enablement materials a starting point.
 
-Phase Deliverables:
+Example Outputs: High-level positioning brief and internal messaging guidance.
 
-Future-state vision and strategic priorities
-
-Capability maturity benchmark and strategic fit map
-
-Offering canvases and client-problem-to-offering map
-
-Weighted prioritization scorecard
-
-Ranked 3x3 portfolio with rationale
-
-Recommendation for every offering considered
-
-Expected Outcome
-
-RS&H leadership will receive a ranked 3x3 digital portfolio, chosen against today's evidence and against where RS&H needs to be by 2030, with a clear, defensible rationale behind each offering.
-
-B.7 Knowledge-Transfer Plan
-
-Knowledge transfer will be built into the engagement from the beginning, not treated as a final handoff activity. Slalom will work side-by-side with RS&H leaders, DTS stakeholders, Operational Business Units, CxO functions, and client-facing teams to co-create the strategy and ensure internal ownership of the recommendations.
-
-Our knowledge-transfer approach includes:
-
-Collaborative working sessions that allow RS&H stakeholders to participate directly in capability validation, market interpretation, offering prioritization, pricing discussions, and GTM design.
-
-Decision-oriented workshops that produce tangible outputs, not just discussion, including prioritization criteria, portfolio scoring, buyer-persona insights, operating model implications, and commercialization pathways.
-
-Draft review cycles that give RS&H leaders the opportunity to validate assumptions, pressure-test recommendations, and refine deliverables before finalization.
-
-Reusable tools and frameworks that RS&H can continue to apply after the engagement, including offering assessment criteria, prioritization logic, financial model assumptions, GTM decision frameworks, and roadmap governance recommendations.
-
-Editable deliverables that RS&H can maintain, update, and adapt as market conditions, digital offerings, and organizational priorities evolve.
-
-Slalom will also provide structured handoff sessions focused on how RS&H can use and maintain the strategy after the engagement ensuring DTS can continue to evaluate, prioritize, and commercialize digital offerings independently.
-
-The outcome will be a Digital GTM Strategy that RS&H understands, believes in, and is prepared to execute—not one that depends on Slalom to interpret or maintain.
+Expected Outcome: RS&H leadership will receive a ranked digital portfolio, chosen against today's evidence and against where RS&H needs to be by 2030, with a clear, defensible rationale behind each offering.
