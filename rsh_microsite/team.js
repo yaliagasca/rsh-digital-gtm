@@ -6,7 +6,10 @@ function teamInitials(name=''){
 
 function photoMarkup(key,name,cls=''){
   const pos=window.TEAM_PHOTOS&&window.TEAM_PHOTOS[key];
-  if(pos){return `<span class="team-photo-sprite ${cls}" role="img" aria-label="${name}" style="--photo-x:${pos[0]};--photo-y:${pos[1]}"></span>`;}
+  if(pos){
+    const x=pos[0], y=pos[1];
+    return `<span class="team-photo-window ${cls}" role="img" aria-label="${name}" style="position:relative;display:block;width:100%;height:100%;overflow:hidden;background:#fff"><img src="team-photos/team-portraits-sprite.jpg" alt="" aria-hidden="true" style="position:absolute;display:block;max-width:none;width:400%;height:400%;left:-${x*100}%;top:-${y*100}%;object-fit:fill"></span>`;
+  }
   return `<span class="team-photo-fallback ${cls}" aria-label="${name}">${teamInitials(name)}</span>`;
 }
 
