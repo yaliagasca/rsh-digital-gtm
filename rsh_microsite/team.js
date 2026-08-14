@@ -5,8 +5,8 @@ function teamInitials(name=''){
 }
 
 function photoMarkup(key,name,cls=''){
-  const knownPhoto=window.TEAM_PHOTOS&&window.TEAM_PHOTOS[key];
-  if(knownPhoto){return `<img class="${cls}" src="${knownPhoto}" alt="${name}" loading="lazy" decoding="async">`;}
+  const pos=window.TEAM_PHOTOS&&window.TEAM_PHOTOS[key];
+  if(pos){return `<span class="team-photo-sprite ${cls}" role="img" aria-label="${name}" style="--photo-x:${pos[0]};--photo-y:${pos[1]}"></span>`;}
   return `<span class="team-photo-fallback ${cls}" aria-label="${name}">${teamInitials(name)}</span>`;
 }
 
