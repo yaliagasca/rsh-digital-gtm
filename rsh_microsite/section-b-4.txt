@@ -1,0 +1,47 @@
+B.6 Knowledge-Transfer Plan
+
+Knowledge transfer will be embedded throughout the engagement through co-creation, working sessions, and iterative review—not treated as a final handoff activity. RS&H stakeholders will participate directly in capability validation, market interpretation, offering prioritization, financial modeling, and GTM design so that the rationale behind the strategy is understood as it is developed.
+
+At engagement close, Slalom will provide a structured knowledge-transfer and handoff package that includes:
+
+Core-team working session: At least one dedicated session with the RS&H core team covering the Digital GTM Strategy, financial model, and strategic roadmap in sufficient depth for RS&H leaders to present, explain, and defend the recommendations internally.
+
+Methods and data-source guide: Documentation of the key analytical methods, assumptions, scoring criteria, research sources, and decision logic used to develop the market assessment, portfolio prioritization, and recommendations.
+
+Financial-model handoff: An editable financial model with documented assumptions, scenarios, calculation logic, and guidance for updating the model as actual performance and market conditions change.
+
+Reusable strategy tools: Editable portfolio-assessment criteria, prioritization frameworks, GTM decision logic, and supporting artifacts that RS&H can reuse as new opportunities emerge.
+
+Editable final deliverables: Strategy, models, analysis, and presentation materials provided in RS&H-owned formats for continued use and adaptation.
+
+The VP of Digital Technologies & Solutions will serve as the primary post-engagement owner, with relevant DTS, Business Development, Operational Business Unit, and other core-team participants included in working sessions and handoff activities based on their responsibilities.
+
+The objective is for RS&H to own not only the recommendations, but also the methods, assumptions, and tools behind them—allowing DTS and BD to operate against a common digital GTM playbook and continue evolving the strategy independently.
+
+B.7 Executive Presentation Readout Structure
+
+Slalom will develop an executive-ready Digital GTM Strategy Readout Presentation for an in-person presentation to RS&H’s Executive Leadership Team in Jacksonville, supported by a working-session readout with the core project team. The readout will translate complex assessment findings, market analysis, offering strategy, operating model implications, and financial scenarios into a clear leadership decision framework.
+
+The executive readout will be structured to help RS&H make informed decisions on where to invest, how to commercialize, and how to sequence execution. Recommended sections include:
+
+Executive Summary and Strategic Context: A concise summary of why the Digital GTM Strategy matters, how it supports Amplify 2030, and what decisions are required from leadership.
+
+Current-State Validation Findings: Key findings from RS&H’s digital capability assessment, including strengths, gaps, commercialization barriers, operating model implications, and readiness to scale.
+
+Market Opportunity and Demand Validation: Summary of TAM/SAM/SOM findings, buyer demand, market attractiveness, competitive positioning, and priority opportunities across Transportation, Aviation, and Federal Defense.
+
+Prioritized Digital Portfolio: Recommended digital advisory, managed services, and product/platform-enabled offerings, including client problems, target buyers, value propositions, delivery models, pricing considerations, and required capabilities.
+
+Commercialization and GTM Strategy: Recommended sales motions, account-based growth strategy, bundled-versus-standalone positioning, partner/alliance considerations, pursuit integration, and enablement requirements.
+
+Operating Model and Governance Implications: Recommended decision rights, ownership model, governance forums, talent needs, delivery model considerations, and cross-functional alignment requirements.
+
+Business and Financial Model: Revenue-model options, pricing and margin assumptions, investment requirements, near-, mid-, and long-term growth scenarios, and key financial tradeoffs.
+
+Strategic Roadmap and Decision Points: Prioritized sequencing through FY30, leadership decisions, route-to-market and investment-mode recommendations, ROM investment requirements, key dependencies, and high-level implementation considerations. Detailed implementation planning remains outside the scope of this engagement.
+
+Appendix / Supporting Detail: Detailed market findings, scoring criteria, financial assumptions, stakeholder inputs, and supporting analysis.
+
+The readout will culminate in a concise set of ELT decisions: which offerings RS&H should prioritize; which markets and buyers to pursue first; whether each opportunity should be built, hired, partnered, or acquired; the appropriate route-to-market and commercial model; the level and timing of investment required; and the strategic sequencing needed to advance toward RS&H's FY28 and FY30 growth objectives.
+
+All final materials will be delivered in editable RS&H-owned formats so DTS and RS&H leadership can continue to use them for internal alignment, executive communication, implementation planning, and future portfolio decisions.
